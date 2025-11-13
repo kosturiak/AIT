@@ -34,9 +34,7 @@ Namiesto zátvoriek (napr. (1,2)) používaj priame citácie, ak sú v texte.
 --- KONIEC KONTEXTU ---
 """
 
-# --- Inicializácia modelu ---
-# ZMENA: Vraciam sa k 'flash' modelu kvôli NÁKLADOM a RÝCHLOSTI.
-# Pre úlohu Q&A nad dokumentom je 'flash' viac ako dostatočný.
+# --- Inicializácia modelu (s tou správnou systémovou inštrukciou) ---
 model = GenerativeModel(
     "gemini-2.5-flash",
     system_instruction=SYSTEM_PROMPT
@@ -52,11 +50,14 @@ def chat():
 
         user_question = data.get("question")
 
+        # --- TOTO JE OPRAVENÁ ČASŤ (v.4) ---
+        # Namiesto triedy "Part.from_text()" posielame obyčajný slovník.
+        
         chat_history = [
              {
                  "role": "user", 
                  "parts": [
-                     {"text": user_question}
+                     {"text": user_question}  # <-- TOTO JE TÁ OPRAVA
                  ]
              }
         ]
@@ -64,8 +65,9 @@ def chat():
         # Zavolanie Gemini API
         response = model.generate_content(
             chat_history,
-            generation_config={"temperature": 0.0} # Nulová teplota pre faktické odpovede
+            generation_config={"temperature": 0.0}
         )
+        # --- KONIEC OPRAVENEJ ČASTI ---
         
         ai_answer = response.text
 
