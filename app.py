@@ -14,7 +14,7 @@ vertexai.init(project=PROJECT_ID, location=LOCATION)
 
 # --- Načítanie Vašej bázy znalostí (AIT DOKUMENT) ---
 try:
-    with open("info_ait.txt", "r", encoding="utf-8") as f:
+    with open("info_ait.txt", "r", encoding="latin-1") as f:
         KNOWLEDGE_BASE = f.read()
 except FileNotFoundError:
     KNOWLEDGE_BASE = "Chyba: Expertný dokument 'info_ait.txt' nebol nájdený."
@@ -78,3 +78,4 @@ def chat():
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 8080)))
+
