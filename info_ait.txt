@@ -1,58 +1,58 @@
-Alergické choroby postihujú v ekonomicky rozvinutıch krajinách kadého tretieho obyvate¾a a predstavujú vıznamnı zdravotnı a spoloèensko-ekonomickı problém (1,2). Okolo 40 % vyšetrenıch pacientov na Slovensku je senzibilizovanıch na minimálne jeden alergén (3). Najèastejším klinickım následkom senzibilizácie sú prejavy respiraènej alergie, ale a polovica senzibilizovanıch pacientov nemusí ma iadne klinické prejavy (4). Vo svete sa prevalencia alergickej rinitídy (AR) pohybuje od 5 do 50 %, v Európe okolo 25 % (5). Takmer 50 % pacientov s AR má súèasne bronchiálnu hyperreaktivitu, ktorá je rizikom pre vznik astmy (6). Jej vıskyt sa v Európe pohybuje medzi 5,1 % a 8,2 % (7). Deti s AR majú a 3-krát vyššiu pravdepodobnos vzniku astmy v porovnaní s demi bez nádchy (6).
-K prejavom AR patrí svrbenie nosa a kıchanie, ktoré sa spája so zvıšenou sekréciou a následne nosovou obturáciou (tzv. kongesciou), ktorá je dominantnım príznakom AR. Svrbenie èasto postihuje aj mäkké podnebie èi zvukovody. Slzenie, zaèervenanie a svrbenie oèí je èastejšie u pacientov citlivıch na pe¾ové alergény. Bronchiálna hyperreaktivita sa najèastejšie prejaví drádením ku kaš¾u, avšak v praxi treba odlíši inú príèinu kaš¾a, napríklad zatekanie hlienov. Astma sa prejavuje okrem kaš¾a aj pocitom tiesne na hrudníku, piskotmi a záchvatmi dıchavice. Alergické choroby èasto sprevádzajú aj psychické poruchy, najmä úzkos a depresia u dospelıch (8) èi poruchy pozornosti a sústredenia u detí (9). Neuropsychiatrické príznaky môu by dôsledkom nesprávne alebo nedostatoène lieèeného alergického ochorenia.
+AlergickÃ© choroby postihujÃº vÂ ekonomicky rozvinutÃ½ch krajinÃ¡ch kaÅ¾dÃ©ho tretieho obyvateÄ¾a aÂ predstavujÃº vÃ½znamnÃ½ zdravotnÃ½ a spoloÄensko-ekonomickÃ½ problÃ©m (1,2). Okolo 40 % vyÅ¡etrenÃ½ch pacientov na Slovensku je senzibilizovanÃ½ch na minimÃ¡lne jeden alergÃ©n (3). NajÄastejÅ¡Ã­m klinickÃ½m nÃ¡sledkom senzibilizÃ¡cie sÃº prejavy respiraÄnej alergie, ale aÅ¾ polovica senzibilizovanÃ½ch pacientov nemusÃ­ maÅ¥ Å¾iadne klinickÃ© prejavy (4). Vo svete sa prevalencia alergickej rinitÃ­dy (AR) pohybuje od 5 do 50 %, v EurÃ³pe okolo 25 % (5). Takmer 50 % pacientov sÂ AR mÃ¡ sÃºÄasne bronchiÃ¡lnu hyperreaktivitu, ktorÃ¡ je rizikom pre vznik astmy (6). Jej vÃ½skyt sa vÂ EurÃ³pe pohybuje medzi 5,1 % aÅ¾ 8,2 % (7). Deti s AR majÃº aÅ¾ 3-krÃ¡t vyÅ¡Å¡iu pravdepodobnosÅ¥ vzniku astmy vÂ porovnanÃ­ sÂ deÅ¥mi bez nÃ¡dchy (6).
+KÂ prejavom AR patrÃ­ svrbenie nosa aÂ kÃ½chanie, ktorÃ© sa spÃ¡ja so zvÃ½Å¡enou sekrÃ©ciou aÂ nÃ¡sledne nosovou obturÃ¡ciou (tzv. kongesciou), ktorÃ¡ je dominantnÃ½m prÃ­znakom AR. Svrbenie Äasto postihuje aj mÃ¤kkÃ© podnebie Äi zvukovody. Slzenie, zaÄervenanie aÂ svrbenie oÄÃ­ je ÄastejÅ¡ie uÂ pacientov citlivÃ½ch na peÄ¾ovÃ© alergÃ©ny. BronchiÃ¡lna hyperreaktivita sa najÄastejÅ¡ie prejavÃ­ drÃ¡Å¾denÃ­m ku kaÅ¡Ä¾u, avÅ¡ak v praxi treba odlÃ­Å¡iÅ¥ inÃº prÃ­Äinu kaÅ¡Ä¾a, naprÃ­klad zatekanie hlienov. Astma sa prejavuje okrem kaÅ¡Ä¾a aj pocitom tiesne na hrudnÃ­ku, piskotmi aÂ zÃ¡chvatmi dÃ½chavice. AlergickÃ© choroby Äasto sprevÃ¡dzajÃº aj psychickÃ© poruchy, najmÃ¤ ÃºzkosÅ¥ a depresia uÂ dospelÃ½ch (8) ÄiÂ poruchy pozornosti aÂ sÃºstredenia uÂ detÃ­ (9). NeuropsychiatrickÃ© prÃ­znaky mÃ´Å¾u byÅ¥ dÃ´sledkom nesprÃ¡vne alebo nedostatoÄne lieÄenÃ©ho alergickÃ©ho ochorenia.
 
-**Alergické choroby predstavujú v súèasnosti najèastejšiu formu civilizaènıch ochorení a sú charakterizované tzv. prezenteizmom (stratou pracovnej produktivity bez práceneschopnosti).**
-** Ekonomické dôsledky alergií môu by skryté, pritom ich celkovı dopad na spoloènos èasto prevyšuje iné váne civilizaèné choroby (10,11).**
-**Alergická nádcha predstavuje vıznamnı rizikovı faktor pre vznik bronchiálnej astmy. ** 
+**AlergickÃ© choroby predstavujÃº v sÃºÄasnosti najÄastejÅ¡iu formu civilizaÄnÃ½ch ochorenÃ­ aÂ sÃº charakterizovanÃ© tzv. prezenteizmom (stratou pracovnej produktivity bez prÃ¡ceneschopnosti).**
+** EkonomickÃ© dÃ´sledky alergiÃ­ mÃ´Å¾u byÅ¥ skrytÃ©, pritom ich celkovÃ½ dopad na spoloÄnosÅ¥ Äasto prevyÅ¡uje inÃ© vÃ¡Å¾ne civilizaÄnÃ© choroby (10,11).**
+**AlergickÃ¡ nÃ¡dcha predstavuje vÃ½znamnÃ½ rizikovÃ½ faktor pre vznik bronchiÃ¡lnej astmy. ** 
 
-Alergénová imunoterapia
-Alergénová imunoterapia (AIT) sa vyuíva v lieèbe alergickıch chorôb u viac ako 110 rokov (4). Tento lieèebnı postup pozostáva z opakovanej a viacroènej aplikácie alergénov buï subkutánne (SCIT) alebo sublinguálne (SLIT) (12). Cie¾om AIT je navodi toleranciu na alergén, ktorı je príèinou pacientovıch akostí. Na rozdiel od  symptomatickej farmakoterapie pretrváva úèinok AIT nieko¾ko rokov po skonèení lieèby (1). V súèasnosti povaujeme AIT za jedinú príèinnú (kauzálnu) lieèbu schopnú modifikova priebeh alergickej choroby (5,13). Terapia je cielená a personalizovaná, zaloená na potrebách a preferenciách konkrétneho pacienta (14).
-V Európe reprezentuje SLIT pribline 45 % celkovej AIT, prièom z novıch lekárskych predpisov tvorí a 80 % (15). Pod¾a metaanalız povaujeme úèinnos SCIT a SLIT za porovnate¾nú (16). V prípade SCIT nie je rozdiel medzi efektivitou natívneho èi modifikovaného alergénu - alergoidu (16,17). 
+AlergÃ©novÃ¡ imunoterapia
+AlergÃ©novÃ¡ imunoterapia (AIT) sa vyuÅ¾Ã­va vÂ lieÄbe alergickÃ½ch chorÃ´b uÅ¾ viac ako 110 rokov (4). Tento lieÄebnÃ½ postup pozostÃ¡va zÂ opakovanej a viacroÄnej aplikÃ¡cie alergÃ©nov buÄ subkutÃ¡nne (SCIT) alebo sublinguÃ¡lne (SLIT) (12). CieÄ¾om AIT je navodiÅ¥ toleranciu na alergÃ©n, ktorÃ½ je prÃ­Äinou pacientovÃ½ch Å¥aÅ¾kostÃ­. Na rozdiel od  symptomatickej farmakoterapie pretrvÃ¡va ÃºÄinok AIT niekoÄ¾ko rokov po skonÄenÃ­ lieÄby (1). VÂ sÃºÄasnosti povaÅ¾ujeme AIT za jedinÃº prÃ­ÄinnÃº (kauzÃ¡lnu) lieÄbu schopnÃº modifikovaÅ¥ priebeh alergickej choroby (5,13). Terapia je cielenÃ¡ aÂ personalizovanÃ¡, zaloÅ¾enÃ¡ na potrebÃ¡ch aÂ preferenciÃ¡ch konkrÃ©tneho pacienta (14).
+V EurÃ³pe reprezentuje SLIT pribliÅ¾ne 45 % celkovej AIT, priÄom zÂ novÃ½ch lekÃ¡rskych predpisov tvorÃ­ aÅ¾ 80 % (15). PodÄ¾a metaanalÃ½z povaÅ¾ujeme ÃºÄinnosÅ¥ SCIT aÂ SLIT za porovnateÄ¾nÃº (16). VÂ prÃ­pade SCIT nie je rozdiel medzi efektivitou natÃ­vneho Äi modifikovanÃ©ho alergÃ©nu - alergoidu (16,17). 
 
     
-**Alergénová imunoterapia predstavuje jedinú kauzálnu lieèbu alergickıch chorôb.** 
-**Cie¾om je navodi toleranciu na alergén, ktorı je zodpovednı za klinické akosti pacienta**.
-**Efekt AIT pretrváva aj po ukonèení terapie**
-**SCIT a SLIT povaujeme z h¾adiska úèinnosti za rovnocenné formy lieèby**.
+**AlergÃ©novÃ¡ imunoterapia predstavuje jedinÃº kauzÃ¡lnu lieÄbu alergickÃ½ch chorÃ´b.** 
+**CieÄ¾om je navodiÅ¥ toleranciu na alergÃ©n, ktorÃ½ je zodpovednÃ½ za klinickÃ© Å¥aÅ¾kosti pacienta**.
+**Efekt AIT pretrvÃ¡va aj po ukonÄenÃ­ terapie**
+**SCIT aÂ SLIT povaÅ¾ujeme zÂ hÄ¾adiska ÃºÄinnosti za rovnocennÃ© formy lieÄby**.
 
 
 Mechanizmus AIT
-Úèinok AIT na imunitnı systém je komplexnı a ovplyvòuje zloky vrodenej (nešpecifickej) i získanej (špecifickej) imunity (2). K¾úèovım mechanizmom je indukcia regulaènıch buniek v rôznych bunkovıch subpopuláciách zapojenıch do patofyziológie alergického zápalu, ktoré produkujú tolerogénne cytokíny (napr. IL-10, TGF-?, IL-35 alebo IL-22) a obnovujú rovnováhu v porušenej imunitnej reaktivite (13). V prípade T a B-lymfocytov vznikajú regulaèné Treg resp. Breg bunky, vrodené lymfoidné bunky (ILC) sú zdrojom regulaènıch ILCreg buniek a NK-bunky sa transformujú na NKreg (2,13,18,19). Analogicky vznikajú regulaèné subpopulácie antigén-prezentujúcich dendritovıch buniek (DCreg) èi makrofágov (M2) (19). Alergénová imunoterapia potláèa reakciu 2. typu a s èasovım odstupom zniuje produkciu špecifického IgE. Na druhej strane podporuje tvorbu blokujúcich IgG4 protilátok a alergén-špecifického sekreèného IgA (2). Dochádza k nastoleniu imunologickej tolerancie k alergénu. Keïe klinické úèinky trvajú aj po ukonèení lieèby, je pravdepodobné, e AIT pozitívne ovplyvòuje imunitnı tréning ako aj pamäové T a B bunky (13). 
+ÃšÄinok AIT na imunitnÃ½ systÃ©m je komplexnÃ½ aÂ ovplyvÅˆuje zloÅ¾ky vrodenej (neÅ¡pecifickej) iÂ zÃ­skanej (Å¡pecifickej) imunity (2). KÄ¾ÃºÄovÃ½m mechanizmom je indukcia regulaÄnÃ½ch buniek vÂ rÃ´znych bunkovÃ½ch subpopulÃ¡ciÃ¡ch zapojenÃ½ch do patofyziolÃ³gie alergickÃ©ho zÃ¡palu, ktorÃ© produkujÃº tolerogÃ©nne cytokÃ­ny (napr. IL-10, TGF-?, IL-35 alebo IL-22) a obnovujÃº rovnovÃ¡hu vÂ poruÅ¡enej imunitnej reaktivite (13). VÂ prÃ­pade T aÂ B-lymfocytov vznikajÃº regulaÄnÃ© Treg resp. Breg bunky, vrodenÃ© lymfoidnÃ© bunky (ILC) sÃº zdrojom regulaÄnÃ½ch ILCreg buniek a NK-bunky sa transformujÃº na NKreg (2,13,18,19). Analogicky vznikajÃº regulaÄnÃ© subpopulÃ¡cie antigÃ©n-prezentujÃºcich dendritovÃ½ch buniek (DCreg) Äi makrofÃ¡gov (M2) (19). AlergÃ©novÃ¡ imunoterapia potlÃ¡Äa reakciu 2. typu aÂ sÂ ÄasovÃ½m odstupom zniÅ¾uje produkciu Å¡pecifickÃ©ho IgE. Na druhej strane podporuje tvorbu blokujÃºcich IgG4 protilÃ¡tok a alergÃ©n-Å¡pecifickÃ©ho sekreÄnÃ©ho IgA (2). DochÃ¡dza k nastoleniu imunologickej tolerancie k alergÃ©nu. KeÄÅ¾e klinickÃ© ÃºÄinky trvajÃº aj po ukonÄenÃ­ lieÄby, je pravdepodobnÃ©, Å¾e AIT pozitÃ­vne ovplyvÅˆuje imunitnÃ½ trÃ©ning ako aj pamÃ¤Å¥ovÃ© T a B bunky (13). 
 
 
-**Alergénová imunoterapia nasto¾uje imunologickú toleranciu voèi alergénu a inhibuje vèasnú aj neskorú fázu alergén-špecifickej imunitnej odpovede**(13).
+**AlergÃ©novÃ¡ imunoterapia nastoÄ¾uje imunologickÃº toleranciu voÄi alergÃ©nu a inhibuje vÄasnÃº aj neskorÃº fÃ¡zu alergÃ©n-Å¡pecifickej imunitnej odpovede**(13).
 
 
-Klinickı úèinok AIT
-Úèinok AIT môeme rozdeli na terapeutickı a preventívny. Oba efekty boli potvrdené v mnohıch randomizovanıch kontrolovanıch štúdiách (RCT) a ich metaanalızach. Tento dokument sa venuje vıznamu AIT v lieèbe a prevencii  alergickej rinokonjunktivitídy a alergickej bronchiálnej astmy. Inım typom AIT sú venované samostatné publikácie (20). 
-Väèšina RCT štúdií sledovala tri primárne lieèebné ciele: 1. zníenie závanosti a vıskytu symptómov (merané štandardizovanımi orgán-špecifickımi dotazníkmi), 2. pokles spotreby symptomatickej lieèby a 3. kombinácia oboch parametrov. K sekundárnym parametrom patrila kvalita ivota a bezpeènos lieèby, ale aj preventívne ciele ako objavenie sa novıch senzibilizácií, vznik astmy èi vıskyt infekcií. Okrem krátkodobého úèinku môe ma aspoò 3 roky trvajúca AIT aj dlhodobı (viac ako 2 roky od ukonèenia lieèby) terapeutickı èi preventívny efekt (13). Viaceré práce naznaèujú pretrvávanie úèinku ove¾a dlhšie. 
+KlinickÃ½ ÃºÄinok AIT
+ÃšÄinok AIT mÃ´Å¾eme rozdeliÅ¥ na terapeutickÃ½ aÂ preventÃ­vny. Oba efekty boli potvrdenÃ© v mnohÃ½ch randomizovanÃ½ch kontrolovanÃ½ch Å¡tÃºdiÃ¡ch (RCT) a ich metaanalÃ½zach. Tento dokument sa venuje vÃ½znamu AIT vÂ lieÄbe aÂ prevencii  alergickej rinokonjunktivitÃ­dy aÂ alergickej bronchiÃ¡lnej astmy. InÃ½m typom AIT sÃº venovanÃ© samostatnÃ© publikÃ¡cie (20). 
+VÃ¤ÄÅ¡ina RCT Å¡tÃºdiÃ­ sledovala tri primÃ¡rne lieÄebnÃ© ciele: 1. znÃ­Å¾enie zÃ¡vaÅ¾nosti a vÃ½skytu symptÃ³mov (meranÃ© Å¡tandardizovanÃ½mi orgÃ¡n-Å¡pecifickÃ½mi dotaznÃ­kmi), 2. pokles spotreby symptomatickej lieÄby aÂ 3. kombinÃ¡cia oboch parametrov. KÂ sekundÃ¡rnym parametrom patrila kvalita Å¾ivota aÂ bezpeÄnosÅ¥ lieÄby, ale aj preventÃ­vne ciele ako objavenie sa novÃ½ch senzibilizÃ¡ciÃ­, vznik astmy Äi vÃ½skyt infekciÃ­. Okrem krÃ¡tkodobÃ©ho ÃºÄinku mÃ´Å¾e maÅ¥ aspoÅˆ 3 roky trvajÃºca AIT aj dlhodobÃ½ (viac ako 2 roky od ukonÄenia lieÄby) terapeutickÃ½ Äi preventÃ­vny efekt (13). ViacerÃ© prÃ¡ce naznaÄujÃº pretrvÃ¡vanie ÃºÄinku oveÄ¾a dlhÅ¡ie. 
 
-**AIT má terapeutickı a preventívny úèinok**
-**Terapeutickı efekt  delíme na krátkodobı (poèas podávania AIT) a dlhodobı (trvajúci minimálne 2 roky od skonèenia lieèby)**
-**Preventívny úèinok AIT  povaujeme za krátkodobı, ak trvá menej ako 2 roky od ukonèenia AIT .  Dlhodobı preventívny efekt  pretrváva  viac ako 2 roky po ukonèení AIT**.
- 
+**AIT mÃ¡ terapeutickÃ½ a preventÃ­vny ÃºÄinok**
+**TerapeutickÃ½ efekt  delÃ­me na krÃ¡tkodobÃ½ (poÄas podÃ¡vania AIT) a dlhodobÃ½ (trvajÃºci minimÃ¡lne 2 roky od skonÄenia lieÄby)**
+**PreventÃ­vny ÃºÄinok AIT  povaÅ¾ujeme za krÃ¡tkodobÃ½, ak trvÃ¡ menej ako 2 roky od ukonÄenia AIT .  DlhodobÃ½ preventÃ­vny efekt  pretrvÃ¡va  viac ako 2 roky po ukonÄenÃ­ AIT**.
+Â 
 
-Lieèba alergickej rinokonjunktivitídy
-Meta-analıza 51 štúdií z rokov 1950 a 2006 zisovala úèinnos subkutánnej AIT (SCIT) v lieèbe sezónnej (pe¾ovej) alergickej nádchy (21). V štúdiách boli pouité tieto alergény: zmiešané trávy (16 štúdií), ambrózia (12 štúdií), múrovník (6 štúdií), timotejka (5 štúdií), breza (4 štúdie), céder (3 štúdie) a ïalšie, u nás menej èasté druhy.   U lieèenıch pacientov došlo k vıznamnému zníeniu symptómového skóre (vyjadrenému ako štandardnı priemernı rozdiel, t.j. SMD) o -0,73 (95 % CI -0,97 a -0,50) a spotreby liekov na alergiu -0,57 (95 % CI -0,82 a -0,33).
-Do novšej meta-analızy z roku 2017 bolo zaradenıch 16 štúdií so SCIT a 41 štúdií so SLIT (17).  Práca potvrdila pokles symptómového skóre SMD = -0,53 (95 % CI -0,63 a -0,42) ako aj redukciu spotreby antialergík SMD = -0,38 (95 % CI -0,49 a -0,26) u pacientov v ramene s AIT. Keïe kontrolná skupina bola vo väèšine novších štúdií lieèená úèinnou farmakoterapiou v súlade s odporúèaniami, závery potvrdzujú aditívny úèinok AIT k štandardnej lieèbe AR (5). 
-Cie¾om nedávnej metaanalızy štúdií z rokov 1998 – 2023 u osôb do 18 rokov bolo porovna efekt SCIT a SLIT (22). Analıza nezistila rozdiely v úèinku na symptómové, medikamentózne èi kombinované skóre, nelíšil sa ani rozvoj novıch senzibilizácií èi pravdepodobnos vzniku astmy. SCIT aj SLIT preto povaujeme za rovnocenné.
-Ve¾kos úèinku AIT pe¾ovımi sublinguálnymi tabletami na príznaky sezónnej AR je porovnate¾nı s najúèinnejšími topickımi kortikoidmi a je vyšší ako dosahujú moderné orálne antihistaminiká 2. generácie (23). Pri celoroènej nádche vyvolanej roztoèmi je efekt tabletovej AIT v dávke 12-SQ dokonca vyšší ako dosahuje lieèba topickımi kortikoidmi (23).
-V poslednıch rokoch pribudli dôkazy o úèinnosti AIT v podmienkach reálnej praxe (24,25). Analızy databáz poisovní zahàòajú desiatky tisíc poistencov a sú zdrojom dôkazov aké nemôu poskytnú randomizované kontrolované štúdie (26). Aj tieto štúdie potvrdili terapeutickı efekt AIT na príznaky AR, èo vedie k zníenej spotrebe symptomatickej medikácie. Tieto práce potvrdili pretrvávanie úèinku AIT a 9 rokov (25).
-
-
-
+LieÄba alergickej rinokonjunktivitÃ­dy
+Meta-analÃ½za 51 Å¡tÃºdiÃ­ zÂ rokov 1950 aÅ¾ 2006 zisÅ¥ovala ÃºÄinnosÅ¥ subkutÃ¡nnej AIT (SCIT) vÂ lieÄbe sezÃ³nnej (peÄ¾ovej) alergickej nÃ¡dchy (21). V Å¡tÃºdiÃ¡ch boli pouÅ¾itÃ© tieto alergÃ©ny: zmieÅ¡anÃ© trÃ¡vy (16 Å¡tÃºdiÃ­), ambrÃ³zia (12 Å¡tÃºdiÃ­), mÃºrovnÃ­k (6 Å¡tÃºdiÃ­), timotejka (5 Å¡tÃºdiÃ­), breza (4 Å¡tÃºdie), cÃ©der (3 Å¡tÃºdie) aÂ ÄalÅ¡ie, uÂ nÃ¡s menej ÄastÃ© druhy.   UÂ lieÄenÃ½ch pacientov doÅ¡lo k vÃ½znamnÃ©mu znÃ­Å¾eniu symptÃ³movÃ©ho skÃ³re (vyjadrenÃ©mu ako Å¡tandardnÃ½ priemernÃ½ rozdiel, t.j. SMD) o -0,73 (95 % CI -0,97 aÅ¾ -0,50) aÂ spotreby liekov na alergiu -0,57 (95 % CI -0,82 aÅ¾ -0,33).
+Do novÅ¡ej meta-analÃ½zy zÂ roku 2017 bolo zaradenÃ½ch 16 Å¡tÃºdiÃ­ so SCIT aÂ 41 Å¡tÃºdiÃ­ so SLIT (17).  PrÃ¡ca potvrdila pokles symptÃ³movÃ©ho skÃ³re SMD = -0,53 (95 % CI -0,63 aÅ¾ -0,42) ako aj redukciu spotreby antialergÃ­k SMD = -0,38 (95 % CI -0,49 aÅ¾ -0,26) uÂ pacientov vÂ ramene s AIT. KeÄÅ¾e kontrolnÃ¡ skupina bola vo vÃ¤ÄÅ¡ine novÅ¡Ã­ch Å¡tÃºdiÃ­ lieÄenÃ¡ ÃºÄinnou farmakoterapiou vÂ sÃºlade s odporÃºÄaniami, zÃ¡very potvrdzujÃº aditÃ­vny ÃºÄinok AIT kÂ Å¡tandardnej lieÄbe AR (5). 
+CieÄ¾om nedÃ¡vnej metaanalÃ½zy Å¡tÃºdiÃ­ zÂ rokov 1998 â€“ 2023 uÂ osÃ´b do 18 rokov bolo porovnaÅ¥ efekt SCIT aÂ SLIT (22). AnalÃ½za nezistila rozdiely vÂ ÃºÄinku na symptÃ³movÃ©, medikamentÃ³zne Äi kombinovanÃ© skÃ³re, nelÃ­Å¡il sa ani rozvoj novÃ½ch senzibilizÃ¡ciÃ­ Äi pravdepodobnosÅ¥ vzniku astmy. SCIT aj SLIT preto povaÅ¾ujeme za rovnocennÃ©.
+VeÄ¾kosÅ¥ ÃºÄinku AIT peÄ¾ovÃ½mi sublinguÃ¡lnymi tabletami na prÃ­znaky sezÃ³nnej AR je porovnateÄ¾nÃ½ sÂ najÃºÄinnejÅ¡Ã­mi topickÃ½mi kortikoidmi aÂ je vyÅ¡Å¡Ã­ ako dosahujÃº modernÃ© orÃ¡lne antihistaminikÃ¡ 2. generÃ¡cie (23). Pri celoroÄnej nÃ¡dche vyvolanej roztoÄmi je efekt tabletovej AIT vÂ dÃ¡vke 12-SQ dokonca vyÅ¡Å¡Ã­ ako dosahuje lieÄba topickÃ½mi kortikoidmi (23).
+VÂ poslednÃ½ch rokoch pribudli dÃ´kazy oÂ ÃºÄinnosti AIT vÂ podmienkach reÃ¡lnej praxe (24,25). AnalÃ½zy databÃ¡z poisÅ¥ovnÃ­ zahÅ•ÅˆajÃº desiatky tisÃ­c poistencov a sÃº zdrojom dÃ´kazov akÃ© nemÃ´Å¾u poskytnÃºÅ¥ randomizovanÃ© kontrolovanÃ© Å¡tÃºdie (26). Aj tieto Å¡tÃºdie potvrdili terapeutickÃ½ efekt AIT na prÃ­znaky AR, Äo vedie kÂ znÃ­Å¾enej spotrebe symptomatickej medikÃ¡cie. Tieto prÃ¡ce potvrdili pretrvÃ¡vanie ÃºÄinku AIT aÅ¾ 9 rokov (25).
 
 
 
-**Alergénová imunoterapia zmieròuje nosové aj oèné príznaky alergickej rinokonjuktivitídy, zniuje frekvenciu ich vıskytu a zniuje spotrebu symptomatickej lieèby. **
-**Úèinok AIT v lieèbe AR je vyšší ako úèinok antihistaminík a je porovnate¾nı s efektom topickıch kortikoidov. ** 
-**Na rozdiel od farmakoterapie pretrváva efekt AIT nieko¾ko rokov aj po jej skonèení. **
 
 
-Lieèba alergickej astmy
-Efekt AIT v lieèbe bronchiálnej astmy je potrebné posudzova v kontexte nízkeho poètu exacerbácií resp. dobrej kontroly astmy, ktorá je jednou z podmienok pre indikáciu AIT a zaradenie pacienta do RCT (13,15). Z uvedenıch dôvodov bola Cochrane meta-analıza efektu AIT na exacerbácie nejednoznaèná, hoci došlo k zlepšeniu kvality ivota astmatikov, zmierneniu príznakov a poklesu spotreby záchrannej medikácie (15). Aj posledná meta-analıza RCT štúdií priniesla podobné vısledky: signifikantne nišie celkové skóre príznakov u astmatikov lieèenıch SLIT, napriek nevıznamnému rozdielu v dávke inhalaènıch kortikoidov, vo frakcii vydychovaného oxidu dusnatého (FeNO), v objeme vydıchnutom za 1. sekundu úsilného vıdychu (FEV1) èi v priamych nákladoch na lieèbu (27). Na druhej strane, RCT štúdia astmy nedostatoène kontrolovanej monoterapiou inhalaènımi kortikoidmi, dokázala pri 12-SQ roztoèovej tablete zníenie rizika strednıch a akıch exacerbácií o 31 % (p=0,03) (28). Pozitívne vısledky viedli v roku 2021 k zaradeniu SLIT roztoèovou tabletou do smerníc GINA na lieèbu astmy spôsobenej roztoèmi, ak je hodnota FEV1 > 70 %, prièom aktuálne je táto lieèba odporúèaná v kroku 2 – 4 (29). Samotná GINA však pripúša monı efekt AIT aj s inımi alergénmi, ktoré sú pre daného pacienta príèinné, najmä ak je pridruená AR.
-Vhodnejšie typy štúdií, napríklad 3-roèné prospektívne sledovanie dánskej kohorty, potvrdilo signifikantne menej exacerbácií v ramene s AIT (prevane SCIT) s priemernım poklesom o 57 % v prípade roztoèovej astmy a 74 % v prípade pe¾ovej astmy (30). 
-Pozitívne boli aj vısledky 10-roènej retrospektívnej analızy z reálneho ivota, ktorá sledovala viac ako 46.000 pacientov v ramene s AIT (25). Okrem schopnosti zmierni astmu a redukova stupeò lieèby, došlo u astmatikov lieèenıch AIT k signifikantnému poklesu závanıch exacerbácií a hospitalizácií, ako aj k zníeniu poètu respiraènıch infekcií (13).
+
+**AlergÃ©novÃ¡ imunoterapia zmierÅˆuje nosovÃ© aj oÄnÃ© prÃ­znaky alergickej rinokonjuktivitÃ­dy, zniÅ¾uje frekvenciu ich vÃ½skytu aÂ zniÅ¾uje spotrebu symptomatickej lieÄby. **
+**ÃšÄinok AIT v lieÄbe AR je vyÅ¡Å¡Ã­ ako ÃºÄinok antihistaminÃ­k aÂ je porovnateÄ¾nÃ½ sÂ efektom topickÃ½ch kortikoidov. ** 
+**Na rozdiel od farmakoterapie pretrvÃ¡va efekt AIT niekoÄ¾ko rokov aj po jej skonÄenÃ­. **
+
+
+LieÄba alergickej astmy
+Efekt AIT vÂ lieÄbe bronchiÃ¡lnej astmy je potrebnÃ© posudzovaÅ¥ vÂ kontexte nÃ­zkeho poÄtu exacerbÃ¡ciÃ­ resp. dobrej kontroly astmy, ktorÃ¡ je jednou zÂ podmienok pre indikÃ¡ciu AIT a zaradenie pacienta do RCT (13,15). ZÂ uvedenÃ½ch dÃ´vodov bola Cochrane meta-analÃ½za efektu AIT na exacerbÃ¡cie nejednoznaÄnÃ¡, hoci doÅ¡lo k zlepÅ¡eniu kvality Å¾ivota astmatikov, zmierneniu prÃ­znakov aÂ poklesu spotreby zÃ¡chrannej medikÃ¡cie (15). Aj poslednÃ¡ meta-analÃ½za RCT Å¡tÃºdiÃ­ priniesla podobnÃ© vÃ½sledky: signifikantne niÅ¾Å¡ie celkovÃ© skÃ³re prÃ­znakov uÂ astmatikov lieÄenÃ½ch SLIT, napriek nevÃ½znamnÃ©mu rozdielu v dÃ¡vke inhalaÄnÃ½ch kortikoidov, vo frakcii vydychovanÃ©ho oxidu dusnatÃ©ho (FeNO), vÂ objeme vydÃ½chnutom za 1. sekundu ÃºsilnÃ©ho vÃ½dychu (FEV1) Äi v priamych nÃ¡kladoch na lieÄbu (27). Na druhej strane, RCT Å¡tÃºdia astmy nedostatoÄne kontrolovanej monoterapiou inhalaÄnÃ½mi kortikoidmi, dokÃ¡zala pri 12-SQ roztoÄovej tablete znÃ­Å¾enie rizika strednÃ½ch aÂ Å¥aÅ¾kÃ½ch exacerbÃ¡ciÃ­ oÂ 31 % (p=0,03) (28). PozitÃ­vne vÃ½sledky viedli vÂ roku 2021 kÂ zaradeniu SLIT roztoÄovou tabletou do smernÃ­c GINA na lieÄbu astmy spÃ´sobenej roztoÄmi, ak je hodnota FEV1 > 70 %, priÄom aktuÃ¡lne je tÃ¡to lieÄba odporÃºÄanÃ¡ vÂ kroku 2 â€“ 4 (29). SamotnÃ¡ GINA vÅ¡ak pripÃºÅ¡Å¥a moÅ¾nÃ½ efekt AIT aj s inÃ½mi alergÃ©nmi, ktorÃ© sÃº pre danÃ©ho pacienta prÃ­ÄinnÃ©, najmÃ¤ ak je pridruÅ¾enÃ¡ AR.
+VhodnejÅ¡ie typy Å¡tÃºdiÃ­, naprÃ­klad 3-roÄnÃ© prospektÃ­vne sledovanie dÃ¡nskej kohorty, potvrdilo signifikantne menej exacerbÃ¡ciÃ­ vÂ ramene sÂ AIT (prevaÅ¾ne SCIT) s priemernÃ½m poklesom o 57 % v prÃ­pade roztoÄovej astmy a 74 % v prÃ­pade peÄ¾ovej astmy (30). 
+PozitÃ­vne boli aj vÃ½sledky 10-roÄnej retrospektÃ­vnej analÃ½zy zÂ reÃ¡lneho Å¾ivota, ktorÃ¡ sledovala viac ako 46.000 pacientov vÂ ramene s AIT (25). Okrem schopnosti zmierniÅ¥ astmu aÂ redukovaÅ¥ stupeÅˆ lieÄby, doÅ¡lo u astmatikov lieÄenÃ½ch AIT kÂ signifikantnÃ©mu poklesu zÃ¡vaÅ¾nÃ½ch exacerbÃ¡ciÃ­ aÂ hospitalizÃ¡ciÃ­, ako aj kÂ znÃ­Å¾eniu poÄtu respiraÄnÃ½ch infekciÃ­ (13).
 
 
 
@@ -61,20 +61,20 @@ Pozitívne boli aj vısledky 10-roènej retrospektívnej analızy z reálneho ivota, 
 
 
   
-**Alergénová imunoterapia zmieròuje príznaky alergickej astmy, zniuje spotrebu záchrannej medikácie a zlepšuje kvalitu ivota pacientov (potvrdené RCT). **
-**Alergénová imunoterapia zniuje vıskyt závanıch exacerbácií, hospitalizácií pre astmu, poèet respiraènıch infekcií a s tım súvisiace náklady (potvrdené real-life štúdiami a niektorımi RCT). **
-**Alergénová imunoterapia modifikuje priebeh astmy, zniuje jej závanos a stupeò lieèby na dosiahnutie kontroly (RCT a real-life štúdie) **. 
-**Lieèba SLIT roztoèovou tabletou je súèasou medzinárodnıch smerníc na lieèbu astmy (GINA) **
+**AlergÃ©novÃ¡ imunoterapia zmierÅˆuje prÃ­znaky alergickej astmy, zniÅ¾uje spotrebu zÃ¡chrannej medikÃ¡cie aÂ zlepÅ¡uje kvalitu Å¾ivota pacientov (potvrdenÃ© RCT). **
+**AlergÃ©novÃ¡ imunoterapia zniÅ¾uje vÃ½skyt zÃ¡vaÅ¾nÃ½ch exacerbÃ¡ciÃ­, hospitalizÃ¡ciÃ­ pre astmu, poÄet respiraÄnÃ½ch infekciÃ­ aÂ sÂ tÃ½m sÃºvisiace nÃ¡klady (potvrdenÃ© real-life Å¡tÃºdiami aÂ niektorÃ½mi RCT). **
+**AlergÃ©novÃ¡ imunoterapia modifikuje priebeh astmy, zniÅ¾uje jej zÃ¡vaÅ¾nosÅ¥ aÂ stupeÅˆ lieÄby na dosiahnutie kontroly (RCT aÂ real-life Å¡tÃºdie) **. 
+**LieÄba SLIT roztoÄovou tabletou je sÃºÄasÅ¥ou medzinÃ¡rodnÃ½ch smernÃ­c na lieÄbu astmy (GINA) **
 
 
 
-Prevencia vzniku alergickej nádchy u rizikovıch a senzibilizovanıch osôb
-Metaanalıza 32 štúdií štúdií v roku 2017 nepreukázala zníenie rizika vzniku prvého alergického ochorenia u senzibilizovanıch osôb (primárna prevencia): RR = 0,30 (95% CI 0,04 a 2,09), potvrdila však pokles krátkodobého rizika vzniku astmy (RR = 0,40 (95% CI 0,3 a 0,54)) èi zníenie rizika novıch senzibilizácií (RR = 0,33 (95%CI 0,12 a 0,93) (6). Tieto pozitívne vısledky boli dosahované najmä v podskupine mladších s minimálnou dåkou lieèby 3 roky. Èo sa tıka zníenia rizika vzniku novıch senzibilizácií, vısledky z jednotlivıch štúdií nie sú konzistentné. Uvádza sa, e môe ís iba o efekt niektorıch prípravkov, respektíve iba niektorıch alergénov. Budú potrebné ïalšie dobre dizajnované práce na potvrdenie tohto preventívneho efektu.
+Prevencia vzniku alergickej nÃ¡dchy u rizikovÃ½ch aÂ senzibilizovanÃ½ch osÃ´b
+MetaanalÃ½za 32 Å¡tÃºdiÃ­ Å¡tÃºdiÃ­ vÂ roku 2017 nepreukÃ¡zala znÃ­Å¾enie rizika vzniku prvÃ©ho alergickÃ©ho ochorenia uÂ senzibilizovanÃ½ch osÃ´b (primÃ¡rna prevencia): RR = 0,30 (95% CI 0,04 aÅ¾ 2,09), potvrdila vÅ¡ak pokles krÃ¡tkodobÃ©ho rizika vzniku astmy (RR = 0,40 (95% CI 0,3 aÅ¾ 0,54)) Äi znÃ­Å¾enie rizika novÃ½ch senzibilizÃ¡ciÃ­ (RR = 0,33 (95%CI 0,12 aÅ¾ 0,93) (6). Tieto pozitÃ­vne vÃ½sledky boli dosahovanÃ© najmÃ¤ vÂ podskupine mladÅ¡Ã­ch sÂ minimÃ¡lnou dÄºÅ¾kou lieÄby 3 roky. ÄŒo sa tÃ½ka znÃ­Å¾enia rizika vzniku novÃ½ch senzibilizÃ¡ciÃ­, vÃ½sledky zÂ jednotlivÃ½ch Å¡tÃºdiÃ­ nie sÃº konzistentnÃ©. UvÃ¡dza sa, Å¾e mÃ´Å¾e Ã­sÅ¥ iba oÂ efekt niektorÃ½ch prÃ­pravkov, respektÃ­ve iba niektorÃ½ch alergÃ©nov. BudÃº potrebnÃ© ÄalÅ¡ie dobre dizajnovanÃ© prÃ¡ce na potvrdenie tohto preventÃ­vneho efektu.
 
 
 
-**Alergénová imunoterapia nie je urèená na prevenciu vzniku alergickej rinokonjuktivitídy u asymptomatickıch senzibilizovanıch jedincov. **
-**Alergénová imunoterapia má potenciál zníi riziko novıch senzibilizácií**.
+**AlergÃ©novÃ¡ imunoterapia nie je urÄenÃ¡ na prevenciu vzniku alergickej rinokonjuktivitÃ­dy uÂ asymptomatickÃ½ch senzibilizovanÃ½ch jedincov. **
+**AlergÃ©novÃ¡ imunoterapia mÃ¡ potenciÃ¡l znÃ­Å¾iÅ¥ riziko novÃ½ch senzibilizÃ¡ciÃ­**.
 
 
 
@@ -82,41 +82,41 @@ Metaanalıza 32 štúdií štúdií v roku 2017 nepreukázala zníenie rizika vzniku prv
 
 
 Prevencia alergickej astmy
-RTC štúdie, ktoré hodnotia dlhodobú úèinnos AIT u osôb s alergickou nádchou naznaèujú, e AIT môe zníi riziko vzniku astmy (6,13).
-Meta-analıza 18 štúdií potvrdila pokles rizika rozvoja astmy o 25 % (RR = 0,75 (95% CI 0,64  a 0,88)) u pacientov lieèenıch AIT, avšak štúdie boli ve¾mi nehomogénne (31). Preventívny úèinok AIT bol markantnejší u detí, monosenzibilizovanıch pacientov a pri lieèbe trvajúcej najmenej 3 roky. Efekt nebol závislı od alergénu (pe¾ tráv alebo roztoèe) èi spôsobu podávania (SCIT, SLIT tablety alebo SLIT roztok). Vısledky boli presvedèivé v krátkodobom horizonte troch rokov (31).
-Analızy z reálnej praxe sú v súlade s dátami získanımi z RCT a potvrdzujú dlhodobú úèinnos AIT pri lieèbe alergickej rinitídy a astmy, ale aj preventívne úèinky na vznik astmy. Efekt bol preukázanı poèas 9 rokov sledovania bez oh¾adu na typ AIT (SCIT alebo SLIT) alebo druh alergénu (roztoèe, pe¾ brezy alebo trávy) (26). V nemeckej 7 roènej retrospektívnej analıze bol vıskyt astmy u pacientov, lieèenıch jednou z trávovıch sublinguálnych tabliet, o 42 % niší ako v kontrolnej skupine bez SLIT (32). Zatia¾ najväèšia analıza z reálneho ivota, porovnávajúca 110.000 pacientov lieèenıch roztokovou SLIT s takmer 334.000 kontrolami, potvrdila redukciu vzniku astmy o 23 a 38 % v závislosti od definície (33). Úèinok sa tıkal všetkıch alergénov, ale signifikantnı bol pri roztoèoch ( - 42 %) a trávach (- 48 %). Asi jedna tretina astmatikov bola zároveò ochránená pred progresiou choroby.
+RTC Å¡tÃºdie, ktorÃ© hodnotia dlhodobÃº ÃºÄinnosÅ¥ AIT u osÃ´b sÂ alergickou nÃ¡dchou naznaÄujÃº, Å¾e AIT mÃ´Å¾e znÃ­Å¾iÅ¥ riziko vzniku astmy (6,13).
+Meta-analÃ½za 18 Å¡tÃºdiÃ­ potvrdila pokles rizika rozvoja astmy oÂ 25 % (RR = 0,75 (95% CI 0,64  aÅ¾ 0,88)) uÂ pacientov lieÄenÃ½ch AIT, avÅ¡ak Å¡tÃºdie boli veÄ¾mi nehomogÃ©nne (31). PreventÃ­vny ÃºÄinok AIT bol markantnejÅ¡Ã­ u detÃ­, monosenzibilizovanÃ½ch pacientov a pri lieÄbe trvajÃºcej najmenej 3 roky. Efekt nebol zÃ¡vislÃ½ od alergÃ©nu (peÄ¾ trÃ¡v alebo roztoÄe) Äi spÃ´sobu podÃ¡vania (SCIT, SLIT tablety alebo SLIT roztok). VÃ½sledky boli presvedÄivÃ© v krÃ¡tkodobom horizonte troch rokov (31).
+AnalÃ½zy z reÃ¡lnej praxe sÃº v sÃºlade sÂ dÃ¡tami zÃ­skanÃ½mi zÂ RCT aÂ potvrdzujÃº dlhodobÃº ÃºÄinnosÅ¥ AIT pri lieÄbe alergickej rinitÃ­dy a astmy, ale aj preventÃ­vne ÃºÄinky na vznik astmy. Efekt bol preukÃ¡zanÃ½ poÄas 9 rokov sledovania bez ohÄ¾adu na typ AIT (SCIT alebo SLIT) alebo druh alergÃ©nu (roztoÄe, peÄ¾ brezy alebo trÃ¡vy) (26). VÂ nemeckej 7 roÄnej retrospektÃ­vnej analÃ½ze bol vÃ½skyt astmy uÂ pacientov, lieÄenÃ½ch jednou zÂ trÃ¡vovÃ½ch sublinguÃ¡lnych tabliet, oÂ 42 % niÅ¾Å¡Ã­ ako vÂ kontrolnej skupine bez SLIT (32). ZatiaÄ¾ najvÃ¤ÄÅ¡ia analÃ½za zÂ reÃ¡lneho Å¾ivota, porovnÃ¡vajÃºca 110.000 pacientov lieÄenÃ½ch roztokovou SLIT s takmer 334.000 kontrolami, potvrdila redukciu vzniku astmy oÂ 23 aÅ¾ 38 % v zÃ¡vislosti od definÃ­cie (33). ÃšÄinok sa tÃ½kal vÅ¡etkÃ½ch alergÃ©nov, ale signifikantnÃ½ bol pri roztoÄoch ( - 42 %) aÂ trÃ¡vach (- 48 %). Asi jedna tretina astmatikov bola zÃ¡roveÅˆ ochrÃ¡nenÃ¡ pred progresiou choroby.
 
 
 
-**Alergénová imunoterapia zniuje riziko vzniku bronchiálnej astmy u osôb s  AR. **
-**Alergénová imunoterapia zniuje riziko progresie u etablovanej astmy. **
-**Dlhodobı preventívny efekt na vznik astmy je najlepšie zdokumentovanı pre SCIT a SLIT v celoroènom reime**
-**Najsilnejšie dôkazy preventívneho efektu sú pre alergény roztoèov a tráv, ale redukcia rizika bola zaznamenaná pri väèšine alergénov. **
+**AlergÃ©novÃ¡ imunoterapia zniÅ¾uje riziko vzniku bronchiÃ¡lnej astmy uÂ osÃ´b sÂ  AR. **
+**AlergÃ©novÃ¡ imunoterapia zniÅ¾uje riziko progresie uÅ¾ etablovanej astmy. **
+**DlhodobÃ½ preventÃ­vny efekt na vznik astmy je najlepÅ¡ie zdokumentovanÃ½ pre SCIT aÂ SLIT vÂ celoroÄnom reÅ¾ime**
+**NajsilnejÅ¡ie dÃ´kazy preventÃ­vneho efektu sÃº pre alergÃ©ny roztoÄov aÂ trÃ¡v, ale redukcia rizika bola zaznamenanÃ¡ pri vÃ¤ÄÅ¡ine alergÃ©nov. **
 
 
-Dåka AIT lieèby a pretrvávanie efektu
-Optimálne trvanie AIT lieèby je 3-5 rokov (34). Imunologické zmeny mono pozorova u v priebehu 6 – 8 tıdòov od zaèiatku aplikácie AIT, prièom klinickı efekt je pozorovate¾nı za 2 – 4 mesiace (35). Maximálny terapeutickı efekt (zmiernenie symptómov a zníená spotreba medikácie) sa dosahuje v 2. roku lieèby a ïalšie pokraèovanie AIT zabezpeèuje dlhodobú úèinnos a udranie imunitnej tolerancie (13).
-Viac ako polovica pacientov (53 %) s vymiznutımi príznakmi zostala, po absolvovaní 3 roènej lieèby roztoèovou subkutánnou AIT, asymptomatická aj po 10 rokoch (36). Rovnakı úèinok potvrdila aj real-life databázová retrospektívna analıza, kde zníená spotreba antialergík aj antiastmatík pretrvávala 9 rokov po lieèbe (25). Nebol zistenı rozdiel v trvaní efektu medzi SCIT a SLIT (37). 
+DÄºÅ¾ka AIT lieÄby aÂ pretrvÃ¡vanie efektu
+OptimÃ¡lne trvanie AIT lieÄby je 3-5 rokov (34). ImunologickÃ© zmeny moÅ¾no pozorovaÅ¥ uÅ¾ vÂ priebehu 6 â€“ 8 tÃ½Å¾dÅˆov od zaÄiatku aplikÃ¡cie AIT, priÄom klinickÃ½ efekt je pozorovateÄ¾nÃ½ za 2 â€“ 4 mesiace (35). MaximÃ¡lny terapeutickÃ½ efekt (zmiernenie symptÃ³mov aÂ znÃ­Å¾enÃ¡ spotreba medikÃ¡cie) sa dosahuje vÂ 2. roku lieÄby aÂ ÄalÅ¡ie pokraÄovanie AIT zabezpeÄuje dlhodobÃº ÃºÄinnosÅ¥ a udrÅ¾anie imunitnej tolerancie (13).
+Viac ako polovica pacientov (53 %) sÂ vymiznutÃ½mi prÃ­znakmi zostala, po absolvovanÃ­ 3 roÄnej lieÄby roztoÄovou subkutÃ¡nnou AIT, asymptomatickÃ¡ aj po 10 rokoch (36). RovnakÃ½ ÃºÄinok potvrdila aj real-life databÃ¡zovÃ¡ retrospektÃ­vna analÃ½za, kde znÃ­Å¾enÃ¡ spotreba antialergÃ­k aj antiastmatÃ­k pretrvÃ¡vala 9 rokov po lieÄbe (25). Nebol zistenÃ½ rozdiel vÂ trvanÃ­ efektu medzi SCIT aÂ SLIT (37). 
 
 
-**Optimálne trvanie AIT je 3-5 rokov. **
-**Priaznivı efekt AIT môe trva 8 – 10 rokov. **
-**Klinickı nástup úèinku AIT mono pozorova u po 2 - 4 mesiacoch od jej iniciácie. **
-
-
-
-Všeobecné pravidlá indikácie AIT
-Indikácia a správna realizácia AIT si vyaduje odbornú erudíciu, exaktnú etiologickú diagnostiku a dostatoèné klinické skúsenosti špecialistu v odbore alergológia a klinická imunológia (38). Indikácia AIT vychádza zo syntézy anamnézy, objektívneho nálezu, prostredia v ktorom pacient ije, fenologického pozorovania, v prípade polinózy zo správ pe¾ovej informaènej sluby a z realizácie alergénovıch testov (konı prick test a vyšetrenie špecifickıch IgE protilátok, šIgE). V súèasnosti je vhodné okrem extraktovıch testov aj tzv. komponentovú (molekulovú) diagnostiku šIgE, ktorá vıznamnou mierou prispieva k spresneniu indikácie AIT.  Správna interpretácia vısledkov konıch testov a laboratórnych vyšetrení v kontexte klinickıch a anamnestickıch údajov je k¾úèom k budúcemu úspechu AIT.
+**OptimÃ¡lne trvanie AIT je 3-5 rokov. **
+**PriaznivÃ½ efekt AIT mÃ´Å¾e trvaÅ¥ 8 â€“ 10 rokov. **
+**KlinickÃ½ nÃ¡stup ÃºÄinku AIT moÅ¾no pozorovaÅ¥ uÅ¾ po 2 - 4 mesiacoch od jej iniciÃ¡cie. **
 
 
 
+VÅ¡eobecnÃ© pravidlÃ¡ indikÃ¡cie AIT
+IndikÃ¡cia aÂ sprÃ¡vna realizÃ¡cia AIT si vyÅ¾aduje odbornÃº erudÃ­ciu, exaktnÃº etiologickÃº diagnostiku aÂ dostatoÄnÃ© klinickÃ© skÃºsenosti Å¡pecialistu vÂ odbore alergolÃ³gia aÂ klinickÃ¡ imunolÃ³gia (38). IndikÃ¡cia AIT vychÃ¡dza zo syntÃ©zyÂ anamnÃ©zy, objektÃ­vneho nÃ¡lezu, prostredia vÂ ktorom pacient Å¾ije, fenologickÃ©ho pozorovania, vÂ prÃ­pade polinÃ³zy zo sprÃ¡v peÄ¾ovej informaÄnej sluÅ¾by aÂ zÂ realizÃ¡cie alergÃ©novÃ½ch testov (koÅ¾nÃ½ prick test aÂ vyÅ¡etrenie Å¡pecifickÃ½ch IgE protilÃ¡tok, Å¡IgE). VÂ sÃºÄasnosti je vhodnÃ© okrem extraktovÃ½ch testov aj tzv. komponentovÃº (molekulovÃº) diagnostiku Å¡IgE, ktorÃ¡ vÃ½znamnou mierou prispieva kÂ spresneniu indikÃ¡cie AIT.  SprÃ¡vna interpretÃ¡cia vÃ½sledkov koÅ¾nÃ½ch testov a laboratÃ³rnych vyÅ¡etrenÃ­ vÂ kontexte klinickÃ½ch aÂ anamnestickÃ½ch Ãºdajov je kÄ¾ÃºÄom kÂ budÃºcemu Ãºspechu AIT.
 
 
-**AIT  indikuje klinickı imunológ a alergológ. Ide o unikátnu terapeutickú modalitu, ktorá
+
+
+
+**AIT  indikuje klinickÃ½ imunolÃ³g a alergolÃ³g. Ide o unikÃ¡tnu terapeutickÃº modalitu, ktorÃ¡
 definuje tento odbor. **
-**Pri indikáciu sa berie do úvahy: anamnéza pacienta, závanos klinickıch príznakov, vzah medzi alergénom a akosami pacienta a dôkaz senzibilizácie IgE typu. **
-**Komponentová diagnostika prispieva k spresneniu indikácie AIT**.
- 
+**Pri indikÃ¡ciu sa berie do Ãºvahy: anamnÃ©za pacienta, zÃ¡vaÅ¾nosÅ¥ klinickÃ½ch prÃ­znakov, vzÅ¥ah medzi alergÃ©nom a Å¥aÅ¾kosÅ¥ami pacienta a dÃ´kaz senzibilizÃ¡cie IgE typu. **
+**KomponentovÃ¡ diagnostika prispieva k spresneniu indikÃ¡cie AIT**.
+Â 
 
 
 
@@ -124,134 +124,134 @@ definuje tento odbor. **
 
 
 
-**AIT je indikovaná, ak sú splnené tieto kritériá** (16,34):
+**AIT je indikovanÃ¡, ak sÃº splnenÃ© tieto kritÃ©riÃ¡** (16,34):
 
 
-* Vek 5 a viac rokov
-* Pacient s predpokladom dostatoènej adherencie
-* Symptómy alergickej rinokonjunktivitídy (s alebo bez astmy)
-o stredne závané a závané, ktoré zasahujú do benıch dennıch èinností alebo spánku napriek pravidelnej a vhodnej farmakoterapii a/alebo stratégiám na elimináciu alergénu
-o menej závané, ak chce pacient zníi/eliminova potrebu farmakoterapie a vyui preventívny efekt na rozvoj bronchiálnej astmy  
-* Dôkaz senzibilizácie IgE typu (pozitívne koné testy a/alebo sérové špecifické IgE) na jeden alebo viac klinicky relevantnıch alergénov
-* Je dostupné vhodné lieèivo pre AIT. Prednostne by sa mali pouíva štandardizované produkty s dôkazom úèinnosti v klinickıch štúdiách
-* Nie je prítomná kontraindikácia
-
-
-
-**Kontraindikácie AIT** (16,34):
-
-* Absolútne
-o aká alebo nedostatoène kontrolovaná astma (FEV1<70%, závaná exacerbácia pred menej ako 3 mesiacmi (28))
-o aktívne onkologické ochorenie
-o aktívne autoimunitné ochorenie
-o  eozinofilová ezofagitída (pre SLIT)
-o  gravidita (lieèbu nezaèíname, avšak v terapii je moné pokraèova)
-o  Iné (uvedené v SPC konkrétnych prípravkov)
-* Relatívne (vyadujú individuálne posúdenie prípadu)
-o závané choroby v pokojovom štádiu, pri ktorıch by AIT mohla predstavova neadekvátnu záa (systémové a orgánové autoimunitné choroby v remisii, malignity v remisii, chronické infekcie, HIV, primárne a sekundárne imunodeficiencie, psychiatrické poruchy, závané kardiovaskulárne choroby èi poruchy oblièiek a peèene)
-o  závaná systémová reakcia po AIT
-o  betablokátory (vrátane lokálnych)
+* Vek 5 aÂ viac rokov
+* Pacient sÂ predpokladom dostatoÄnej adherencie
+* SymptÃ³my alergickej rinokonjunktivitÃ­dy (s alebo bez astmy)
+o stredne zÃ¡vaÅ¾nÃ© aÅ¾ zÃ¡vaÅ¾nÃ©, ktorÃ© zasahujÃº do beÅ¾nÃ½ch dennÃ½ch ÄinnostÃ­ alebo spÃ¡nku napriek pravidelnej a vhodnej farmakoterapii a/alebo stratÃ©giÃ¡m na eliminÃ¡ciu alergÃ©nu
+o menej zÃ¡vaÅ¾nÃ©, ak chce pacient znÃ­Å¾iÅ¥/eliminovaÅ¥ potrebu farmakoterapie aÂ vyuÅ¾iÅ¥ preventÃ­vny efekt na rozvoj bronchiÃ¡lnej astmy  
+* DÃ´kaz senzibilizÃ¡cie IgE typu (pozitÃ­vne koÅ¾nÃ© testy a/alebo sÃ©rovÃ© Å¡pecifickÃ© IgE) na jeden alebo viac klinicky relevantnÃ½ch alergÃ©nov
+* Je dostupnÃ© vhodnÃ© lieÄivo pre AIT. Prednostne by sa mali pouÅ¾Ã­vaÅ¥ Å¡tandardizovanÃ© produkty sÂ dÃ´kazom ÃºÄinnosti vÂ klinickÃ½ch Å¡tÃºdiÃ¡ch
+* Nie je prÃ­tomnÃ¡ kontraindikÃ¡cia
 
 
 
-Vıber AIT u pacienta senzibilizovaného na viac alergénov
-V randomizovanıch kontrolovanıch štúdiách bolo 66 a 90 % pacientov senzibilizovanıch na viac alergénov (39). Meta-analıza 10 štúdií s roztoèovou AIT dokázala rovnakú úroveò klinického zlepšenia alergickej nádchy medzi monosenzibilizovanımi èi polysenzibilizovanımi pacientami (39). 
-Pre posúdenie klinického vıznamu alergénu nie je rozhodujúca ve¾kos reakcie v konıch testoch èi koncentrácia šIgE proti alergénovému extraktu, ale charakter a intenzita alergickıch príznakov, ich trvanie a väzba na expozíciu danım alergénom (napr. pe¾ová sezóna, prostredie s roztoèmi èi plesòami) a vplyv na kvalitu ivota pacienta (34). Pozitivita alergénovıch testov svedèí pre senzibilizáciu, pri nastavení lieèby je však k¾úèovou otázkou posúdenie kauzálnej súvislosti akostí pacienta s vytestovanım alergénom. Urèenie klinicky relevantného alergénu sa vo ve¾kej miere opiera o anamnézu. Prediktívna hodnota samotnej anamnézy u pacientov so sezónnou AR je 82 - 85 % a u pacientov s celoroènou AR asi 77 %. Ak sa pouije konı test a stanovenie šIgE, prediktívna hodnota sa zvıši na 97 - 99 % (34). Ve¾mi prínosná je komponentová diagnostika (t.j. stanovenie špecifickıch IgE proti alergénovım komponentom konkrétneho zdroja alergénu), ktorá najmä u polysenzibilizovanıch pacientov umoòuje presnejšiu selekciu alergénu pre AIT (34). 
+**KontraindikÃ¡cie AIT** (16,34):
+
+* AbsolÃºtne
+o Å¥aÅ¾kÃ¡ alebo nedostatoÄne kontrolovanÃ¡ astma (FEV1<70%, zÃ¡vaÅ¾nÃ¡ exacerbÃ¡cia pred menej ako 3 mesiacmi (28))
+o aktÃ­vne onkologickÃ© ochorenie
+o aktÃ­vne autoimunitnÃ© ochorenie
+o Â eozinofilovÃ¡ ezofagitÃ­da (pre SLIT)
+o Â gravidita (lieÄbu nezaÄÃ­name, avÅ¡ak vÂ terapii je moÅ¾nÃ© pokraÄovaÅ¥)
+o Â InÃ© (uvedenÃ© vÂ SPC konkrÃ©tnych prÃ­pravkov)
+* RelatÃ­vne (vyÅ¾adujÃº individuÃ¡lne posÃºdenie prÃ­padu)
+o zÃ¡vaÅ¾nÃ© choroby v pokojovom Å¡tÃ¡diu, pri ktorÃ½ch by AIT mohla predstavovaÅ¥ neadekvÃ¡tnu zÃ¡Å¥aÅ¾ (systÃ©movÃ© a orgÃ¡novÃ© autoimunitnÃ© choroby vÂ remisii, malignity v remisii, chronickÃ© infekcie, HIV, primÃ¡rne a sekundÃ¡rne imunodeficiencie, psychiatrickÃ© poruchy, zÃ¡vaÅ¾nÃ© kardiovaskulÃ¡rne choroby Äi poruchy obliÄiek a peÄene)
+o Â zÃ¡vaÅ¾nÃ¡ systÃ©movÃ¡ reakcia po AIT
+o Â betablokÃ¡tory (vrÃ¡tane lokÃ¡lnych)
 
 
 
-**U pacienta senzibilizovaného na viac alergénov je vo väèšine prípadov moné urèi jeden dominantnı alergén na základe anamnézy, konıch testov a komponentovej diagnostiky**
-**Aj v prípade viacerıch rovnocennıch alergénov je AIT moná, potrebná je však snaha identifikova èo najmenší poèet relevantnıch alergénov**
+VÃ½ber AIT uÂ pacienta senzibilizovanÃ©ho na viac alergÃ©nov
+V randomizovanÃ½ch kontrolovanÃ½ch Å¡tÃºdiÃ¡ch bolo 66 aÅ¾ 90 % pacientov senzibilizovanÃ½ch na viac alergÃ©nov (39). Meta-analÃ½za 10 Å¡tÃºdiÃ­ sÂ roztoÄovou AIT dokÃ¡zala rovnakÃº ÃºroveÅˆ klinickÃ©ho zlepÅ¡enia alergickej nÃ¡dchy medzi monosenzibilizovanÃ½mi Äi polysenzibilizovanÃ½mi pacientami (39). 
+Pre posÃºdenie klinickÃ©ho vÃ½znamu alergÃ©nu nie je rozhodujÃºca veÄ¾kosÅ¥ reakcie vÂ koÅ¾nÃ½ch testoch Äi koncentrÃ¡cia Å¡IgE proti alergÃ©novÃ©mu extraktu, ale charakter a intenzita alergickÃ½ch prÃ­znakov, ich trvanie a vÃ¤zba na expozÃ­ciu danÃ½m alergÃ©nom (napr. peÄ¾ovÃ¡ sezÃ³na, prostredie s roztoÄmi Äi plesÅˆami) a vplyv na kvalitu Å¾ivota pacienta (34). Pozitivita alergÃ©novÃ½ch testov svedÄÃ­ pre senzibilizÃ¡ciu, pri nastavenÃ­ lieÄby je vÅ¡ak kÄ¾ÃºÄovou otÃ¡zkou posÃºdenie kauzÃ¡lnej sÃºvislosti Å¥aÅ¾kostÃ­ pacienta s vytestovanÃ½m alergÃ©nom. UrÄenie klinicky relevantnÃ©ho alergÃ©nu sa vo veÄ¾kej miere opiera o anamnÃ©zu. PrediktÃ­vna hodnota samotnej anamnÃ©zy u pacientov so sezÃ³nnou AR je 82 - 85 % a u pacientov s celoroÄnou AR asi 77 %. Ak sa pouÅ¾ije koÅ¾nÃ½ test a stanovenie Å¡IgE, prediktÃ­vna hodnota sa zvÃ½Å¡i na 97 - 99 % (34). VeÄ¾mi prÃ­nosnÃ¡ je komponentovÃ¡ diagnostika (t.j. stanovenie Å¡pecifickÃ½ch IgE proti alergÃ©novÃ½m komponentom konkrÃ©tneho zdroja alergÃ©nu), ktorÃ¡ najmÃ¤ uÂ polysenzibilizovanÃ½ch pacientov umoÅ¾Åˆuje presnejÅ¡iu selekciu alergÃ©nu pre AIT (34). 
 
 
 
-Bezpeènos AIT
-Pribline 0,1 – 0,6 % AIT injekcií vedie k systémovım reakciám, èo predstavuje 1-6 reakcií na 1000 podaní (5,40). Väèšina z nich je mierna a stredná. Závaná anafylaxia (stupeò 4 a viac) sa vyskytuje v poète 1/1.000.000 a smrou sa môe skonèi jedna z 23 milióna aplikácií (5). 
-Väèšina smrte¾nıch anafylaktickıch reakcií zaèína do 30 minút po injekcii SCIT, preto všetci pacienti musia by pozorovaní 30 minút po kadom podaní.  Pribline 15 % systémovıch alergickıch reakcií sa zaèína po 30 minútach, ale prevane ide o ¾ahké a stredné reakcie (1. a 2. stupeò) (40).
-Pozorovanie je potrebné aj po prvej dávke SLIT. V prípade SLIT tabliet sú systémové reakcie zriedkavé, bolo hlásenıch len nieko¾ko prípadov anafylaxie a doteraz sa nevyskytli iadne smrte¾né prípady (40). Naopak, èastı je vıskyt lokálnych reakcií v ústnej dutine, ktoré sú väèšinou mierne a spontánne vymiznú, zvyèajne za 10 – 20 dní pri pokraèujúcej lieèbe, dochádza k nastoleniu imunologickej tolerancie alergénu (16,40).
-Betablokátory nezvyšujú riziko anafylaxie, avšak môu by spojené so závanejším priebehom pre nedostatoènı úèinok adrenalínu (5).
-Viac systémovıch neiaducich úèinkov sa vyskytuje pri SCIT v porovnaní so SLIT, preto niektorí autori v detskom veku uprednostòujú SLIT (22).
-
-
-**Alergénová imunoterapia je bezpeèná a závané reakcie sú zriedkavé. ** 
-**Menej systémovıch reakcií sa vyskytuje pri SLIT ako pri SCIT. **
-**Po kadom podaní SCIT musí by pacient sledovanı 30 minút. **
-**Po 1. aplikácii SLIT musí by pacient sledovanı 30 min. **
-**Je potrebné dodriava podmienky podania AIT uvedené v SPC**.
+**UÂ pacienta senzibilizovanÃ©ho na viac alergÃ©nov je vo vÃ¤ÄÅ¡ine prÃ­padov moÅ¾nÃ© urÄiÅ¥ jeden dominantnÃ½ alergÃ©n na zÃ¡klade anamnÃ©zy, koÅ¾nÃ½ch testov aÂ komponentovej diagnostiky**
+**Aj vÂ prÃ­pade viacerÃ½ch rovnocennÃ½ch alergÃ©nov je AIT moÅ¾nÃ¡, potrebnÃ¡ je vÅ¡ak snaha identifikovaÅ¥ Äo najmenÅ¡Ã­ poÄet relevantnÃ½ch alergÃ©nov**
 
 
 
-Zásady správnej realizácie AIT
-AIT indikuje, realizuje lekár so špecializáciou v odbore klinická imunológia a alergológia. Všeobecne je AIT indikovaná u pacienta, ktorı trpí alergickou chorobou (rinitída, astma, alergia na blanokrídly hmyz, pri ktorej sa podarilo urèi príèinnı(é) alergén(y). Ak je kauzalita vytestovanıch alergénov vo vzahu k pacientovım akostiam neistá, AIT neindikujeme.
-Pred zaèatím AIT treba zvái individuálny prínos a riziká pre kadého pacienta. Pacient má by podrobne informovanı o plánovanej lieèbe, jej princípoch, o prínosoch aj monıch neiaducich úèinkoch, ako aj druhoch a monıch protokoloch AIT (klasickı alebo klastrovı protokol podávania, celoroènı alebo pred- a ko-sezónny reim), prièom o tom spolu s lekárom podpíše informovanı súhlas.
-Lieèbu nezaèíname na vrchole pe¾ovej sezóny daného alergénu a nepodávame v štádiu exacerbovanej choroby (nestabilná astma, akútny priebeh alergie), ani v prípade interkurentnej infekcie. Èasovı odstup od infekcie posudzujeme individuálne, pacient by mal by aspoò 3 dni bez zdravotnıch akostí. SCIT neaplikujeme u pacienta bezprostredne po fyzickej námahe a pod vplyvom alkoholu.
-SCIT sa podáva  vo dvojici (lekár, sestra), personál má by vyškolenı pre zvládnutie anafylaktickej reakcie. Miestnos, kde sa AIT realizuje, je vybavená lôkom a pomôckami na poskytnutie prvej pomoci vrátane zvládnutia systémovej alergickej reakcie.
-Postupujeme pod¾a SPC konkrétneho zvoleného prípravku. Pri subkutánnej lieèbe však môeme protokol pod¾a konkrétnej situácie individuálne modifikova (napr. vo¾ba klastrového postupu). Treba sa vyhnú rôznym “home made” protokolom, ktoré vedú k nedostatoènej cie¾ovej / kumulatívnej dávke alergénu prípadne nemajú overenú úèinnos a potvrdenú bezpeènos v klinickıch štúdiách.
-Pred kadou aplikáciou alergénu má by pacient fyzicky aj psychicky v pokoji. Pred aplikáciou treba u pacienta podstupujúceho SCIT odobra anamnézu - ako sa mal po ostatnom podaní, èi je pacient zdravı, ako sa cíti, èi sa nieèo zmenilo od poslednej návštevy. U pacientov s ve¾kımi a obaujúcimi lokálnymi reakciami po podaní SCIT môeme zvái premedikáciu antihistaminikom (veèer pred podaním, prípadne kontinuálne podávanie). Astmatik má by vyšetrenı fyzikálne aj spirometricky (FEV1 > 70% RH), individuálne mono zvái spirometrie pred a po podaní AIT. Kadé podanie SCIT má by zaznaèené v zdravotnej dokumentácii pacienta.
+BezpeÄnosÅ¥ AIT
+PribliÅ¾ne 0,1 â€“ 0,6 % AIT injekciÃ­ vedie kÂ systÃ©movÃ½m reakciÃ¡m, Äo predstavuje 1-6 reakciÃ­ na 1000 podanÃ­ (5,40). VÃ¤ÄÅ¡ina zÂ nich je mierna aÅ¾ strednÃ¡. ZÃ¡vaÅ¾nÃ¡ anafylaxia (stupeÅˆ 4 aÂ viac) sa vyskytuje vÂ poÄte 1/1.000.000 aÂ smrÅ¥ou sa mÃ´Å¾e skonÄiÅ¥ jedna zÂ 23 miliÃ³na aplikÃ¡ciÃ­ (5). 
+VÃ¤ÄÅ¡ina smrteÄ¾nÃ½ch anafylaktickÃ½ch reakciÃ­ zaÄÃ­na do 30 minÃºt po injekcii SCIT, preto vÅ¡etci pacienti musia byÅ¥ pozorovanÃ­ 30 minÃºt po kaÅ¾dom podanÃ­.  PribliÅ¾ne 15 % systÃ©movÃ½ch alergickÃ½ch reakciÃ­ sa zaÄÃ­na po 30 minÃºtach, ale prevaÅ¾ne ide o Ä¾ahkÃ© aÅ¾Â strednÃ© reakcie (1. aÂ 2. stupeÅˆ) (40).
+Pozorovanie je potrebnÃ© aj po prvej dÃ¡vke SLIT. V prÃ­pade SLIT tabliet sÃº systÃ©movÃ© reakcie zriedkavÃ©, bolo hlÃ¡senÃ½ch len niekoÄ¾ko prÃ­padov anafylaxie a doteraz sa nevyskytli Å¾iadne smrteÄ¾nÃ© prÃ­pady (40). Naopak, ÄastÃ½ je vÃ½skyt lokÃ¡lnych reakciÃ­ vÂ Ãºstnej dutine, ktorÃ© sÃº vÃ¤ÄÅ¡inou mierne aÂ spontÃ¡nne vymiznÃº, zvyÄajne za 10 â€“ 20 dnÃ­ pri pokraÄujÃºcej lieÄbe, dochÃ¡dza k nastoleniu imunologickej tolerancie alergÃ©nu (16,40).
+BetablokÃ¡tory nezvyÅ¡ujÃº riziko anafylaxie, avÅ¡ak mÃ´Å¾u byÅ¥ spojenÃ© so zÃ¡vaÅ¾nejÅ¡Ã­m priebehom pre nedostatoÄnÃ½ ÃºÄinok adrenalÃ­nu (5).
+Viac systÃ©movÃ½ch neÅ¾iaducich ÃºÄinkov sa vyskytuje pri SCIT vÂ porovnanÃ­ so SLIT, preto niektorÃ­ autori vÂ detskom veku uprednostÅˆujÃº SLIT (22).
 
 
-**Pred zaèatím AIT treba zvái indikáciu, kontraindikácie, prínos a prípadné riziká pre pacienta. **
-**Lieèbu nezaèíname/nepodávame v štádiu exacerbovanej choroby (nestabilná astma, akútny priebeh alergie), ani v prípade interkurentnej infekcie. **
-**Pred kadou aplikáciou alergénu má by pacient fyzicky aj psychicky v pokoji. **
-**Je potrebné, aby pacient poèas lieèby dosiahol dostatoènú kumulatívnu dávku alergénu**.
+**AlergÃ©novÃ¡ imunoterapia je bezpeÄnÃ¡ aÂ zÃ¡vaÅ¾nÃ© reakcie sÃº zriedkavÃ©. ** 
+**Menej systÃ©movÃ½ch reakciÃ­ sa vyskytuje pri SLIT ako pri SCIT. **
+**Po kaÅ¾dom podanÃ­ SCIT musÃ­ byÅ¥ pacient sledovanÃ½ 30 minÃºt. **
+**Po 1. aplikÃ¡cii SLIT musÃ­ byÅ¥ pacient sledovanÃ½ 30 min. **
+**Je potrebnÃ© dodrÅ¾iavaÅ¥ podmienky podania AIT uvedenÃ© v SPC**.
+
+
+
+ZÃ¡sady sprÃ¡vnej realizÃ¡cie AIT
+AIT indikuje, realizuje lekÃ¡r so Å¡pecializÃ¡ciou vÂ odbore klinickÃ¡ imunolÃ³gia aÂ alergolÃ³gia. VÅ¡eobecne je AIT indikovanÃ¡ u pacienta, ktorÃ½ trpÃ­ alergickou chorobou (rinitÃ­da, astma, alergia na blanokrÃ­dly hmyz, pri ktorej sa podarilo urÄiÅ¥ prÃ­ÄinnÃ½(Ã©) alergÃ©n(y). Ak je kauzalita vytestovanÃ½ch alergÃ©nov vo vzÅ¥ahu kÂ pacientovÃ½m Å¥aÅ¾kostiam neistÃ¡, AIT neindikujeme.
+Pred zaÄatÃ­m AIT treba zvÃ¡Å¾iÅ¥ individuÃ¡lny prÃ­nos aÂ rizikÃ¡ pre kaÅ¾dÃ©ho pacienta. Pacient mÃ¡ byÅ¥ podrobne informovanÃ½ oÂ plÃ¡novanej lieÄbe, jej princÃ­poch, o prÃ­nosoch aj moÅ¾nÃ½ch neÅ¾iaducich ÃºÄinkoch, ako aj druhoch aÂ moÅ¾nÃ½ch protokoloch AIT (klasickÃ½ alebo klastrovÃ½ protokol podÃ¡vania, celoroÄnÃ½ alebo pred- aÂ ko-sezÃ³nny reÅ¾im), priÄom o tom spolu s lekÃ¡rom podpÃ­Å¡e informovanÃ½ sÃºhlas.
+LieÄbu nezaÄÃ­name na vrchole peÄ¾ovej sezÃ³ny danÃ©ho alergÃ©nu a nepodÃ¡vame vÂ Å¡tÃ¡diu exacerbovanej choroby (nestabilnÃ¡ astma, akÃºtny priebeh alergie), ani vÂ prÃ­pade interkurentnej infekcie. ÄŒasovÃ½ odstup od infekcie posudzujeme individuÃ¡lne, pacient by mal byÅ¥ aspoÅˆ 3 dni bez zdravotnÃ½ch Å¥aÅ¾kostÃ­. SCIT neaplikujeme u pacienta bezprostredne po fyzickej nÃ¡mahe a pod vplyvom alkoholu.
+SCIT sa podÃ¡va  vo dvojici (lekÃ¡r, sestra), personÃ¡l mÃ¡ byÅ¥ vyÅ¡kolenÃ½ pre zvlÃ¡dnutie anafylaktickej reakcie. MiestnosÅ¥, kde sa AIT realizuje, je vybavenÃ¡ lÃ´Å¾kom aÂ pomÃ´ckami na poskytnutie prvej pomoci vrÃ¡tane zvlÃ¡dnutia systÃ©movej alergickej reakcie.
+Postupujeme podÄ¾a SPC konkrÃ©tneho zvolenÃ©ho prÃ­pravku. Pri subkutÃ¡nnej lieÄbe vÅ¡ak mÃ´Å¾eme protokol podÄ¾a konkrÃ©tnej situÃ¡cie individuÃ¡lne modifikovaÅ¥ (napr. voÄ¾ba klastrovÃ©ho postupu). Treba sa vyhnÃºÅ¥ rÃ´znym â€œhome madeâ€ protokolom, ktorÃ© vedÃº kÂ nedostatoÄnej cieÄ¾ovej / kumulatÃ­vnej dÃ¡vke alergÃ©nu prÃ­padne nemajÃº overenÃº ÃºÄinnosÅ¥ a potvrdenÃº bezpeÄnosÅ¥ v klinickÃ½ch Å¡tÃºdiÃ¡ch.
+Pred kaÅ¾dou aplikÃ¡ciou alergÃ©nu mÃ¡ byÅ¥ pacient fyzicky aj psychicky vÂ pokoji. Pred aplikÃ¡ciou treba u pacienta podstupujÃºceho SCIT odobraÅ¥ anamnÃ©zu - ako sa mal po ostatnom podanÃ­, Äi je pacient zdravÃ½, ako sa cÃ­ti, Äi sa nieÄo zmenilo od poslednej nÃ¡vÅ¡tevy. UÂ pacientov sÂ veÄ¾kÃ½mi aÂ obÅ¥aÅ¾ujÃºcimi lokÃ¡lnymi reakciami po podanÃ­ SCIT mÃ´Å¾eme zvÃ¡Å¾iÅ¥ premedikÃ¡ciu antihistaminikom (veÄer pred podanÃ­m, prÃ­padne kontinuÃ¡lne podÃ¡vanie). Astmatik mÃ¡ byÅ¥ vyÅ¡etrenÃ½ fyzikÃ¡lne ajÂ spirometricky (FEV1 > 70% RH), individuÃ¡lne moÅ¾no zvÃ¡Å¾iÅ¥ spirometrie pred aÂ po podanÃ­ AIT. KaÅ¾dÃ© podanie SCIT mÃ¡ byÅ¥ zaznaÄenÃ© vÂ zdravotnej dokumentÃ¡cii pacienta.
+
+
+**Pred zaÄatÃ­m AIT treba zvÃ¡Å¾iÅ¥ indikÃ¡ciu, kontraindikÃ¡cie, prÃ­nos a prÃ­padnÃ© rizikÃ¡ pre pacienta. **
+**LieÄbu nezaÄÃ­name/nepodÃ¡vame v Å¡tÃ¡diu exacerbovanej choroby (nestabilnÃ¡ astma, akÃºtny priebeh alergie), ani v prÃ­pade interkurentnej infekcie. **
+**Pred kaÅ¾dou aplikÃ¡ciou alergÃ©nu mÃ¡ byÅ¥ pacient fyzicky aj psychicky v pokoji. **
+**Je potrebnÃ©, aby pacient poÄas lieÄby dosiahol dostatoÄnÃº kumulatÃ­vnu dÃ¡vku alergÃ©nu**.
 
 
 SCIT
-SCIT sa podáva do strednej, prípadne distálnej tretiny dorzálnej strany ramena. Pred aplikáciou je potrebné skontrolova podávanı prípravok (èi nedošlo nevhodnım skladovaním k znehodnoteniu, druh alergénu, koncentráciu, exspiraènú dobu). Nikdy sa nekombinujú viaceré šare pri jednom podaní. Pred aplikáciou sa aspiruje. Po aplikácii si pacient miesto vpichu na 30 sekúnd mierne pritlaèí prstami (tlakovı “obväz”).
-Po kadej aplikácii SCIT má by pacient minimálne 30 minút sledovanı, respektíve pod dozorom lekára. Následne by sa mal pacient vyhıba poèas celého dòa zvıšenej fyzickej záai (vrátane saunovania), konzumácii alkoholu a prejedaniu.
+SCIT sa podÃ¡va do strednej, prÃ­padne distÃ¡lnej tretiny dorzÃ¡lnej strany ramena. Pred aplikÃ¡ciou je potrebnÃ© skontrolovaÅ¥ podÃ¡vanÃ½ prÃ­pravok (Äi nedoÅ¡lo nevhodnÃ½m skladovanÃ­m k znehodnoteniu, druh alergÃ©nu, koncentrÃ¡ciu, exspiraÄnÃº dobu). Nikdy sa nekombinujÃº viacerÃ© Å¡arÅ¾e pri jednom podanÃ­. Pred aplikÃ¡ciou sa aspiruje. Po aplikÃ¡cii si pacient miesto vpichu na 30 sekÃºnd mierne pritlaÄÃ­ prstami (tlakovÃ½ â€œobvÃ¤zâ€).
+Po kaÅ¾dej aplikÃ¡cii SCIT mÃ¡ byÅ¥ pacient minimÃ¡lne 30 minÃºt sledovanÃ½, respektÃ­ve pod dozorom lekÃ¡ra. NÃ¡sledne by sa mal pacient vyhÃ½baÅ¥ poÄas celÃ©ho dÅˆa zvÃ½Å¡enej fyzickej zÃ¡Å¥aÅ¾i (vrÃ¡tane saunovania), konzumÃ¡cii alkoholu aÂ prejedaniu.
 SLIT
-Aj pacient podstupujúci SLIT si vyaduje zvıšenú pozornos. Prvá dávka sa podáva v ambulancii – okrem odsledovania tolerancie prvej dávky je to príleitos lieèbu oddemonštrova a ešte raz pacientovi vysvetli. Ïalšie dávky si pacient podáva doma, ale musí by zrozumite¾ne pouèenı kedy si SLIT nepoda. Napríklad v prípade chirurgického vıkonu v ústnej dutine, vrátane extrakcie zubu a vypadnutia mlieèneho zubu u detí, sa má SLIT preruši na 7 dní. 
-SLIT nie je potrebné podáva nalaèno, dutina ústna má by èistá a bez zbytkov potravy, roztok alebo tableta sa pod jazykom drí minimálne 1 minútu, následne sa obsah prehltne (prípadne vyp¾uje). Po aplikácii je vhodné 15 min nekonzumova jedlo.
-Na úvod sa predpisuje iba mesaèné balenie SLIT; pred predpisom pokraèovacej 3-mesaènej dávky treba s pacientom okrem kontroly tolerancie znova struène prediskutova celı lieèebnı plán.
-Pacientovi treba poskytnú monos kontaktova predpisujúce lekára v prípade akıchko¾vek pochybností o pokraèovaní v lieèbe. V prípade závanej intolerancie alebo alergickej reakcie musí ma pacient monos naliehavej kontroly indikujúcim lekárom.
-Podávanie viacerıch alergénov – viacnásobná AIT
-Mnohí alergici sú polysenzibilizovaní, prípadne v extraktovıch testoch polyreaktívni. Na rozlíšenie polyreaktivity od skutoènej polysenzibilizácie sa vyuíva molekulová diagnostika. Ak sa pacientovi urèia syntézou diagnostickıch metód, anamnézy, pe¾ovej informaènej sluby a fenológie viaceré kauzálne alergény, vyberá sa dominantnı alergén, maximálne však 3 alergény, ktoré sa najvıznamnejšou mierou podie¾ajú na vzniku symptómov. 
-V prípade viacerıch relevantnıch príèinnıch alergénov môeme voli podávanie 2 (3) alergénov, a to buï súèasne, alebo následne. V prípade dostupnosti štandardizovaného prípravku môeme voli zmes 2 alergénov. Z h¾adiska odsledovania individuálnej tolerancie konkrétneho alergénu / alergickej reakcie po podaní alergénu, uprednostòujeme postupné zaèatie lieèby. Keï pri prvom alergéne overíme jeho znášanlivos (v prípade SCIT po dosiahnutí udriavacie dávky), zaèneme podáva 2. alergén.
-Pri SLIT podávame 2. alergén 30 minút po podaní 1. alergénu, alebo podávame jeden alergén ráno a druhı veèer. V prípade SCIT platí tie odstup aspoò 30 minút, ale najmä dodriavame zásadu podania do 2. ramena. Tie môeme poèas vzostupnej èasti dávkovacej schémy SCIT voli podávanie 2x tıdenne (1 alergén 1 deò),  pri udriavacej dávke 2x mesaène (striedavé podávanie alergénov á 2  tıdne). Individuálne, pod¾a dostupnosti alergénovıch prípravkov a s prihliadnutím k preferenciám pacienta, môeme tie voli SLIT jednım a SCIT druhım alergénom.
-Úlohou alergológa je vybra a nastavi najúèinnejšiu lieèbu: vıber jedného (preferenène) alebo viacerıch dominantnıch príèinnıch alergénov, v jednom alebo viacerıch prípravkoch, formu lieku a lieèebnı reim.
-Symptomatická lieèba môe najmä poèas iniciálnej fázy AIT zlepši znášanlivos a hodnotenie úèinnosti pacientom a podpori tak jeho adherenciu k lieèbe. Ambicióznym cie¾om AIT ale má by budúca redukcia, prípadne vynechanie symptomatickej farmakoterapie.
+Aj pacient podstupujÃºci SLIT si vyÅ¾aduje zvÃ½Å¡enÃº pozornosÅ¥. PrvÃ¡ dÃ¡vka sa podÃ¡va v ambulancii â€“ okrem odsledovania tolerancie prvej dÃ¡vky je to prÃ­leÅ¾itosÅ¥ lieÄbu oddemonÅ¡trovaÅ¥ a eÅ¡te raz pacientovi vysvetliÅ¥. ÄalÅ¡ie dÃ¡vky si pacient podÃ¡va doma, ale musÃ­ byÅ¥ zrozumiteÄ¾ne pouÄenÃ½ kedy si SLIT nepodaÅ¥. NaprÃ­klad v prÃ­pade chirurgickÃ©ho vÃ½konu v Ãºstnej dutine, vrÃ¡tane extrakcie zubu a vypadnutia mlieÄneho zubu u detÃ­, sa mÃ¡ SLIT preruÅ¡iÅ¥ na 7 dnÃ­. 
+SLIT nie je potrebnÃ© podÃ¡vaÅ¥ nalaÄno, dutina Ãºstna mÃ¡ byÅ¥ ÄistÃ¡ a bez zbytkov potravy, roztok alebo tableta sa pod jazykom drÅ¾Ã­ minimÃ¡lne 1 minÃºtu, nÃ¡sledne sa obsah prehltne (prÃ­padne vypÄ¾uje). Po aplikÃ¡cii je vhodnÃ© 15 min nekonzumovaÅ¥ jedlo.
+Na Ãºvod sa predpisuje iba mesaÄnÃ© balenie SLIT;Â pred predpisom pokraÄovacej 3-mesaÄnej dÃ¡vky treba sÂ pacientom okrem kontroly tolerancie znova struÄne prediskutovaÅ¥ celÃ½ lieÄebnÃ½ plÃ¡n.
+Pacientovi treba poskytnÃºÅ¥ moÅ¾nosÅ¥ kontaktovaÅ¥ predpisujÃºce lekÃ¡ra vÂ prÃ­pade akÃ½chkoÄ¾vek pochybnostÃ­ oÂ pokraÄovanÃ­ vÂ lieÄbe. VÂ prÃ­pade zÃ¡vaÅ¾nej intolerancie alebo alergickej reakcie musÃ­ maÅ¥ pacient moÅ¾nosÅ¥ naliehavej kontroly indikujÃºcim lekÃ¡rom.
+PodÃ¡vanie viacerÃ½ch alergÃ©nov â€“ viacnÃ¡sobnÃ¡ AIT
+MnohÃ­ alergici sÃº polysenzibilizovanÃ­, prÃ­padne v extraktovÃ½ch testoch polyreaktÃ­vni. Na rozlÃ­Å¡enie polyreaktivity od skutoÄnej polysenzibilizÃ¡cie sa vyuÅ¾Ã­va molekulovÃ¡ diagnostika. Ak sa pacientovi urÄia syntÃ©zou diagnostickÃ½ch metÃ³d, anamnÃ©zy, peÄ¾ovej informaÄnej sluÅ¾by aÂ fenolÃ³gie viacerÃ© kauzÃ¡lne alergÃ©ny, vyberÃ¡ sa dominantnÃ½ alergÃ©n, maximÃ¡lne vÅ¡ak 3 alergÃ©ny, ktorÃ© sa najvÃ½znamnejÅ¡ou mierou podieÄ¾ajÃº na vzniku symptÃ³mov. 
+VÂ prÃ­pade viacerÃ½ch relevantnÃ½ch prÃ­ÄinnÃ½ch alergÃ©nov mÃ´Å¾eme voliÅ¥ podÃ¡vanie 2 (3) alergÃ©nov, aÂ to buÄ sÃºÄasne, alebo nÃ¡sledne. VÂ prÃ­pade dostupnosti Å¡tandardizovanÃ©ho prÃ­pravku mÃ´Å¾eme voliÅ¥ zmes 2 alergÃ©nov. ZÂ hÄ¾adiska odsledovania individuÃ¡lnej tolerancie konkrÃ©tneho alergÃ©nu / alergickej reakcie po podanÃ­ alergÃ©nu, uprednostÅˆujeme postupnÃ© zaÄatie lieÄby. KeÄ pri prvom alergÃ©ne overÃ­me jeho znÃ¡Å¡anlivosÅ¥ (v prÃ­pade SCIT po dosiahnutÃ­ udrÅ¾iavacie dÃ¡vky), zaÄneme podÃ¡vaÅ¥ 2. alergÃ©n.
+Pri SLIT podÃ¡vame 2. alergÃ©n 30 minÃºt po podanÃ­ 1. alergÃ©nu, alebo podÃ¡vame jeden alergÃ©n rÃ¡no aÂ druhÃ½ veÄer. VÂ prÃ­pade SCIT platÃ­ tieÅ¾ odstup aspoÅˆ 30 minÃºt, ale najmÃ¤ dodrÅ¾iavame zÃ¡sadu podania do 2. ramena. TieÅ¾ mÃ´Å¾eme poÄas vzostupnej Äasti dÃ¡vkovacej schÃ©my SCIT voliÅ¥ podÃ¡vanie 2x tÃ½Å¾denne (1 alergÃ©n 1 deÅˆ),  pri udrÅ¾iavacej dÃ¡vke 2x mesaÄne (striedavÃ© podÃ¡vanie alergÃ©nov Ã¡ 2  tÃ½Å¾dne). IndividuÃ¡lne, podÄ¾a dostupnosti alergÃ©novÃ½ch prÃ­pravkov aÂ sÂ prihliadnutÃ­m kÂ preferenciÃ¡m pacienta, mÃ´Å¾eme tieÅ¾ voliÅ¥ SLIT jednÃ½m aÂ SCIT druhÃ½m alergÃ©nom.
+Ãšlohou alergolÃ³ga je vybraÅ¥ aÂ nastaviÅ¥ najÃºÄinnejÅ¡iu lieÄbu: vÃ½ber jednÃ©ho (preferenÄne) alebo viacerÃ½ch dominantnÃ½ch prÃ­ÄinnÃ½ch alergÃ©nov, vÂ jednom alebo viacerÃ½ch prÃ­pravkoch, formu lieku a lieÄebnÃ½ reÅ¾im.
+SymptomatickÃ¡ lieÄba mÃ´Å¾e najmÃ¤ poÄas iniciÃ¡lnej fÃ¡zy AIT zlepÅ¡iÅ¥ znÃ¡Å¡anlivosÅ¥ a hodnotenie ÃºÄinnosti pacientom aÂ podporiÅ¥ tak jeho adherenciu kÂ lieÄbe. AmbiciÃ³znym cieÄ¾om AIT ale mÃ¡ byÅ¥ budÃºca redukcia, prÃ­padne vynechanie symptomatickej farmakoterapie.
 
 
-  **Úlohou alergológa je vybra a nastavi najúèinnejšiu lieèbu: vıber jedného (preferenène) alebo viacerıch dominantnıch príèinnıch alergénov**
+  **Ãšlohou alergolÃ³ga je vybraÅ¥ a nastaviÅ¥ najÃºÄinnejÅ¡iu lieÄbu: vÃ½ber jednÃ©ho (preferenÄne) alebo viacerÃ½ch dominantnÃ½ch prÃ­ÄinnÃ½ch alergÃ©nov**
   
-  **Na rozlíšenie polyreaktivity od skutoènej polysenzibilizácie sa vyuíva molekulová (tzv. komponentová) diagnostika. **
+  **Na rozlÃ­Å¡enie polyreaktivity od skutoÄnej polysenzibilizÃ¡cie sa vyuÅ¾Ã­va molekulovÃ¡ (tzv. komponentovÃ¡) diagnostika. **
   
-  **V prípade viacerıch relevantnıch príèinnıch alergénov  je moné podávanie dvoch (maximálne troch) alergénov, a to buï súèasne, alebo následne. **
+  **V prÃ­pade viacerÃ½ch relevantnÃ½ch prÃ­ÄinnÃ½ch alergÃ©nov  je moÅ¾nÃ© podÃ¡vanie dvoch (maximÃ¡lne troch) alergÃ©nov, a to buÄ sÃºÄasne, alebo nÃ¡sledne. **
   
-  **Cie¾om AIT je redukcia, prípadne úplné vynechanie symptomatickej farmakoterapie. **
-   
-Všeobecné zásady pre zlepšenie adherencie k lieèbe
-Ïalej uvedené zásady platia pre všetky typy akejko¾vek lieèby, je ale ve¾mi iaduce sa nimi riadi aj pri AIT. Ich uplatòovaním vırazne stúpne podiel alergikov, ktorí dokonèia potrebné minimálne 3 roèné podávanie AIT.
-V súvislosti s (ne)uívaním liekov, respektíve s (ne)dodriavaním lieèebného plánu sa pouívajú pojmy adherencia a compliance (1). Termín adherencia sa definuje sa ako miera zhody medzi klinickou preskripciou a skutoènım uívaním lieèby, èo je pre koneènı vısledok lieèby k¾úèové. Na compliance sa nazerá ako na naše jednostranné rozhodnutie s oèakávaním, e pacient bude predpísanú lieèbu uíva.
-Nonadherenciu spôsobuje rad faktorov, vrátane sociálneho a kultúrneho pozadia pacienta. Dôleité sú aj faktory podmienené samou chorobou, ako sú charakter symptómov, lieèba ktorú vyaduje (spôsob podávania, frekvencia dávok, dåka lieèby, neiaduce úèinky, náklady). Neprekvapí, e pacienti so závanejším priebehom choroby sú k lieèbe adherentnejší. V neposlednom rade (non)adherencia závisí od vzahu medzi pacientom a lekárom a od pacientovıch oèakávaní. Je preto dôleité ako moné oèakávania lekár pacientovi vysvetlí. Adherenciu k predpísanej lieèbe podmieòuje komplexná sekvencia udalostí a rozhodnutí ktoré môeme rozdeli na 3 fázy (1):
-1. Iniciácia
-- lekár odporúèajúci/predpisujúci lieèbu musí jej dôvod s pacientom (prípadne aj s jeho rodinou) jasne a zrozumite¾ne odkomunikova a pacient musí s lieèbou súhlasi. Pre akceptáciu lieèby je rozhodujúce zrozumite¾né vysvetlenie zistenej diagnózy a všetkıch moností jej lieèby, vrátane prípadnıch neiaducich úèinkov; rovnako dôleité je pacientovi vysvetli moné následky nelieèenia choroby;
-- pri indikácii AIT je k¾úèovım faktorom vysvetli rozdiel medzi farmakologickou lieèbou a AIT -  pacientovi zrozumite¾nou formou priblíime jedineènos AIT v tom, e je postupom, pri ktorom lieèime príèinu;
-- pacient rozumie vetám „poïme lieèi príèinu, nie iba potláèa prejavy“ … „v prípade, e sa roz- hodnete pre imunoterapiu, máte ve¾kú šancu, e sa vaša alergia na dlho zmierni, mono aj vylie- èi“ … „v budúcnosti pravdepodobne nebudete musie pravidelne uíva lieky“ … „trénujeme imunit- nı systém, uèíme vašu precitlivenú imunitu k tolerancii“. 
-- v súvislosti s AIT sa vyhıbajme slovu vakcinácia alebo oèkovanie.
-2. Implementácia (pokraèovanie)
-- fáza pokraèovania v lieèbe vyaduje najmä v zaèiatku opakované kontroly uívania – od druhu choroby, jej lieèby, ako aj preferencií pacienta závisí forma (fyzická kontrola, telefón, elektronická komunikácia, odovzdávanie denníka a p.) aj frekvencia kontrol;
-- vo fáze pokraèovania lieèby sa stráca vıznamná èas pacientov, vrátane tıch, ktorí s lieèbou jednoznaène súhlasili: pod¾a prieskumu realizovaného v SR u po 1. mesiaci z lieèby „vypadáva“ 5-6 % pacientov, po 3 mesiacoch lieèby nepokraèuje 15 %, po roku pokraèuje u len necelıch 70% a AIT dokonèí <50% pacientov, a to nezávisle na type lieèby (2). Medzi najèastejšie príèiny nepokraèovania patria: 
-? neiaduce úèinky (n.ú.), pre ktoré nepokraèujú pacienti najmä v zaèiatkoch AIT, je preto potrebné aby o n.ú. pacient vedel ešte pred podaním prvej dávky a aby vedel, e ide o oèakávanı n.ú. s predpokladom zmiernenia / ústupu v èase;
-?  v neskorších fázach (napr. u roztoèového pacienta po polroku a roku, u polinotika po 1. sezóne, bıva èasto príèinou nepokraèovania v lieèbe aj pocit zlepšenia – pacienti si myslia, e „u sú vylieèení“;
-? dåka lieèby: od samého zaèiatku a v priebehu kontrol pacienta treba stále prízvukova, e lieèba má trva minimálne 3 roky, musíme ráta s tım, e pacient sa nás po èase spıta „preèo tak dlho“; v prípade VIT je vhodná dåka lieèby aspoò 5 rokov, u niektorıch pacientov dokonca ojedinele aj celoivotne;
-? finanèná nároènos: doplatky môu v individuálnych prípadoch vies k predèasnému ukonèeniu (alebo dokonca nezaèatiu) lieèby, pacientovi treba vysvetli, e sumu konkrétneho doplatku bene minie napr. na multivitamín;
-? poèet návštev na ambulancii: v priebehu 3 roky trvajúcej lieèby môe by problémom potreba èastého uvo¾nenia sa z práce, aj preto – ak je to moné – preferujeme SLIT pred SCIT a individualizujeme formu kontrol (namiesto fyzickej kontroly mail, telefón, sociálna sie...);
-? pri pe¾ovej alergii hrá ve¾mi vıznamnú úlohu aktuálne mnostvo pe¾u s vysokou medziroènou variabilitou; hodnoty konkrétneho pe¾u v ovzduší vyššie ako v roku pred zaèatím lieèby môu vyvola pocit zlyhávania lieèby; naopak ve¾mi nízke hodnoty pe¾u v konkrétnej sezóne môu pacienta vies k mylnej predstave, e u nepotrebuje protialergickú lieèbu (2).
-3. Ukonèenie
-- pacient pokraèuje v lieèbe tak dlho ako urèil lekár; na zaèiatku a poèas lieèby opakovane treba vysvet¾ova ako dlho bude lieèba trva.
-Rozhodujúce faktory adherencie
-Pri adherencii sa zdôrazòuje obojstrannos vzahu lekár-pacient. V záujme èo najlepšej adherencie k lieèbe / lieèebnému plánu sa odporúèa nasledovné (3, 4):
-- edukácia pacienta: poskytnutie informácií o chorobe a lieèbe, vysvetlenie vıznamu/zmyslu lieèby, potrebného dávkovania a dåky lieèby zvyšuje adherenciu k lieèbe;
-- vzájomná komunikácia, asistencia pri lieèbe: obojstranná komunikácia je potrebná nie iba pri inicializácii lieèby, ale musí v urèitej (vzájomne vyhovujúcej) podobe pokraèova aj vo fáze implementácie; mnohí pacienti budú ma poèas lieèby nové/opakované otázky èi pochybnosti ktoré potrebujú odkomunikova – èím rıchlejšie budú tieto otázky zodpovedané, tım je menšia pravdepodobnos odklonu od lieèebného plánu;
-- lieèba šitá na mieru: pri mnohıch diagnózach a ich lieèbe dá voli z viacerıch moností lieèby – v prípade AIT sublinguálna (SLIT) alebo subkutánna (SCIT) forma, celoroènı alebo pred a ko-sezónny reim, pri SLIT roztoková alebo tabletková forma pod jazyk, pri SCIT klasickı alebo klastrovı/zrıchlenı reim; všetky monosti, ich vıhody/nevıhody, treba pacientovi zrozumite¾ne vysvetli, ale monos vo¾by je vhodné ponecha aspoò do istej miery naò; pri AIT sa opakovane potvrdilo, e ak sa pacient podie¾a na vo¾be typu lieèby, je zotrvanie na lieèbe vıznamne vyššie, uniformnı prístup k lieèbe bez zapojenia pacienta, respektíve direktívny prístup zo strany lekára vıznamne zniuje adherenciu (5, 6);
-- spolupráca: snaha zlepši adherenciu k lieèbe sa stretá s úspechom ak všetky zainteresované strany spolupracujú a komunikujú – lekár špecialista,  zdravotná sestra, pacient, rodina pacienta, všeobecnı lekár, lekárnik;
-- informaèné zdroje: lekári aj vırobcovia lieèiv by mali podpori adherenciu aj rôznymi ïalšími formami, ako sú informaèné broúry, mobilné aplikácie a vzdelávacie videá;
-- lieèebnı reim: má by èo najjednoduchší, zloité dávkovacie schémy vedú k neúspechom; najideálnejšie dávkovanie lieèiva je 1x denne – potreba viac dávok za deò, ale aj prerušované reimy (obdeò, 2x alebo 1x tıdenne) zniujú pravdepodobnos uitia všetkıch dávok; dôleitá je aj forma lieèiva (injekcie alebo  p.o. èi s.l. formy, ve¾kos tablety, pri roztokoch alebo rozpustnıch tabletkách ich chu, rıchlos rozpustenia), typ balenia, jednoduchos vybalenia a aplikácie dávky, špeciálne skladovacie podmienky (chladnièka alebo izbová teplota) a pod; dôleité sú aj inštrukcie pacienta “na papieri” – je potrebné aby boli jednoduché a pacientovi zrozumite¾né.
-Úèinnos AIT je závislá od dávky
-Úèinnos AIT závisí od dosiahnutej dávky terapeutického alergénu. Pri uvádzaní SLIT do praxe prebehli viaceré klinické štúdie posudzujúce závislos úèinnosti lieèby od dosiahnutej dávky alergénu (7,8). Individuálna tolerancia lieku sa môe vırazne líši, senzitívnejší pacienti môu vyadova podávanie redukovanej dávky (èo umoòuje roztoková forma alergénu), pozor ale na neúèinné dávky!
-Štúdie ukázali, e od urèitej dávky narastá vıskyt neiaducich úèinkov lieèby, na druhej strane od urèitej dávky sa jej ïalším navyšovaním u úèinnos vıznamnejšie nezvyšuje (10). V klinickej praxi je potrebné dodriava dávkovací a lieèebnı reim pod¾a odporúèania vırobcu a odbornıch spoloèností (9).
-SLIT realizuje sám pacient a je preto nevyhnutné, aby porozumel základnım princípom lieèby, aby ovládal techniku uívania lieku a aby sa s òou stotonil. Dobrá spolupráca a komunikácia medzi lekárom a pacientom je predpokladom úspešnosti lieèby. Nemono oèakáva, e nedôsledná, nepravidelná, prerušovaná lieèba, ktorá nedosiahne odporúèanú dávku lieku povedie k uspokojivému vısledku.
-Osobitne je potrebné venova èas a pozornos pacientom, ktorí v úvode SLIT pociujú dyskomfort v oblasti ústnej dutiny, èo môe vies k prerušeniu a neochote pokraèova v uívaní alergénu. Ak lekár dokáe pacientovi vysvetli, e nejde o závanejšie ved¾ajšie úèinky lieku a ide naopak o prejav toho, e lieèba pôsobí, práve tento argument môe prispie k dôslednejšiemu dodriavaniu a realizácii lieèby. 
-Kooperujúci a edukovanı pacient sa viac pridàa aj ïalších odporúèaní, ktoré sa môu vıznamne podie¾a na vısledku lieèby: správne uívanie symptomatickıch liekov, riešenie komorbidít a pridruenıch komplikácií, dodriavanie reimovıch opatrení, úpravy v domácom èi pracovnom prostredí.
-AIT je vınimoèná pretrvávaním dosiahnutého efektu lieèby aj po jej ukonèení. Štúdie ukazujú, e tento efekt závisí od dosiahnutej urèitej kumulatívnej dávky terapeutického alergénu, a teda v prvom rade na dodraní odporuèenej dávkovacej schémy. V súèasnosti sa zriedka odporúèa viac ako 5-roèné podávanie alergénu, vınimkou je v individuálnych prípadoch celoivotné podávanie AIT pri alergií na jed blanokrídleho hmyzu. Štandardná dåka lieèby je 3 a 5 rokov. Kratšie trvanie lieèby nezaisuje dostatoène dlhé pretrvávanie jej pôsobenia (11).
+  **CieÄ¾om AIT je redukcia, prÃ­padne ÃºplnÃ© vynechanie symptomatickej farmakoterapie. **
+  Â 
+VÅ¡eobecnÃ© zÃ¡sady pre zlepÅ¡enie adherencie kÂ lieÄbe
+Äalej uvedenÃ© zÃ¡sady platia pre vÅ¡etky typy akejkoÄ¾vek lieÄby, je ale veÄ¾mi Å¾iaduce sa nimi riadiÅ¥ aj pri AIT. Ich uplatÅˆovanÃ­m vÃ½razne stÃºpne podiel alergikov, ktorÃ­ dokonÄia potrebnÃ© minimÃ¡lne 3 roÄnÃ© podÃ¡vanie AIT.
+VÂ sÃºvislosti sÂ (ne)uÅ¾Ã­vanÃ­m liekov, respektÃ­ve s (ne)dodrÅ¾iavanÃ­m lieÄebnÃ©ho plÃ¡nu sa pouÅ¾Ã­vajÃº pojmy adherencia aÂ compliance (1). TermÃ­n adherencia sa definuje sa ako miera zhody medzi klinickou preskripciou aÂ skutoÄnÃ½m uÅ¾Ã­vanÃ­m lieÄby, Äo je pre koneÄnÃ½ vÃ½sledok lieÄby kÄ¾ÃºÄovÃ©. Na compliance sa nazerÃ¡ ako na naÅ¡e jednostrannÃ© rozhodnutie sÂ oÄakÃ¡vanÃ­m, Å¾e pacient bude predpÃ­sanÃº lieÄbu uÅ¾Ã­vaÅ¥.
+Nonadherenciu spÃ´sobuje rad faktorov, vrÃ¡tane sociÃ¡lneho aÂ kultÃºrneho pozadia pacienta. DÃ´leÅ¾itÃ© sÃº aj faktory podmienenÃ© samou chorobou, ako sÃº charakter symptÃ³mov, lieÄba ktorÃº vyÅ¾aduje (spÃ´sob podÃ¡vania, frekvencia dÃ¡vok, dÄºÅ¾ka lieÄby, neÅ¾iaduce ÃºÄinky, nÃ¡klady). NeprekvapÃ­, Å¾e pacienti so zÃ¡vaÅ¾nejÅ¡Ã­m priebehom choroby sÃº kÂ lieÄbe adherentnejÅ¡Ã­. VÂ neposlednom rade (non)adherencia zÃ¡visÃ­ od vzÅ¥ahu medzi pacientom aÂ lekÃ¡rom aÂ od pacientovÃ½ch oÄakÃ¡vanÃ­. Je preto dÃ´leÅ¾itÃ© ako moÅ¾nÃ© oÄakÃ¡vania lekÃ¡r pacientovi vysvetlÃ­. Adherenciu kÂ predpÃ­sanej lieÄbe podmieÅˆuje komplexnÃ¡ sekvencia udalostÃ­ aÂ rozhodnutÃ­ ktorÃ© mÃ´Å¾eme rozdeliÅ¥ na 3 fÃ¡zy (1):
+1. IniciÃ¡cia
+- lekÃ¡r odporÃºÄajÃºci/predpisujÃºci lieÄbu musÃ­ jej dÃ´vod sÂ pacientom (prÃ­padne aj sÂ jeho rodinou) jasne aÂ zrozumiteÄ¾ne odkomunikovaÅ¥ aÂ pacient musÃ­ sÂ lieÄbou sÃºhlasiÅ¥. Pre akceptÃ¡ciu lieÄby je rozhodujÃºce zrozumiteÄ¾nÃ© vysvetlenie zistenej diagnÃ³zy aÂ vÅ¡etkÃ½ch moÅ¾nostÃ­ jej lieÄby, vrÃ¡tane prÃ­padnÃ½ch neÅ¾iaducich ÃºÄinkov;Â rovnako dÃ´leÅ¾itÃ© je pacientovi vysvetliÅ¥ moÅ¾nÃ© nÃ¡sledky nelieÄenia choroby;
+- pri indikÃ¡cii AIT je kÄ¾ÃºÄovÃ½m faktorom vysvetliÅ¥ rozdiel medzi farmakologickou lieÄbou aÂ AIT -  pacientovi zrozumiteÄ¾nou formou priblÃ­Å¾ime jedineÄnosÅ¥ AIT vÂ tom, Å¾e je postupom, pri ktorom lieÄime prÃ­Äinu;
+- pacient rozumie vetÃ¡m â€poÄme lieÄiÅ¥ prÃ­Äinu, nie iba potlÃ¡ÄaÅ¥ prejavyâ€œ â€¦ â€v prÃ­pade, Å¾e sa roz- hodnete pre imunoterapiu, mÃ¡te veÄ¾kÃº Å¡ancu, Å¾e sa vaÅ¡a alergia na dlho zmierni, moÅ¾no aj vylie- Äiâ€œ â€¦ â€v budÃºcnosti pravdepodobne nebudete musieÅ¥ pravidelne uÅ¾Ã­vaÅ¥ liekyâ€œ â€¦ â€trÃ©nujeme imunit- nÃ½ systÃ©m, uÄÃ­me vaÅ¡u precitlivenÃº imunitu k toleranciiâ€œ. 
+- vÂ sÃºvislosti sÂ AIT sa vyhÃ½bajme slovu vakcinÃ¡cia alebo oÄkovanie.
+2. ImplementÃ¡cia (pokraÄovanie)
+- fÃ¡za pokraÄovania vÂ lieÄbe vyÅ¾aduje najmÃ¤ v zaÄiatku opakovanÃ© kontroly uÅ¾Ã­vania â€“ od druhu choroby, jej lieÄby, ako aj preferenciÃ­ pacienta zÃ¡visÃ­ forma (fyzickÃ¡ kontrola, telefÃ³n, elektronickÃ¡ komunikÃ¡cia, odovzdÃ¡vanie dennÃ­ka aÂ p.) aj frekvencia kontrol;
+- vo fÃ¡ze pokraÄovania lieÄby sa strÃ¡ca vÃ½znamnÃ¡ ÄasÅ¥ pacientov, vrÃ¡tane tÃ½ch, ktorÃ­ s lieÄbou jednoznaÄne sÃºhlasili: podÄ¾a prieskumu realizovanÃ©ho vÂ SR uÅ¾ po 1. mesiaci zÂ lieÄby â€vypadÃ¡vaâ€œ 5-6 % pacientov, po 3 mesiacoch lieÄby nepokraÄuje 15 %, po roku pokraÄuje uÅ¾ len necelÃ½ch 70% aÂ AIT dokonÄÃ­ <50% pacientov, aÂ to nezÃ¡visle na type lieÄby (2). Medzi najÄastejÅ¡ie prÃ­Äiny nepokraÄovania patria: 
+? neÅ¾iaduce ÃºÄinky (n.Ãº.), pre ktorÃ© nepokraÄujÃº pacienti najmÃ¤ vÂ zaÄiatkoch AIT, je preto potrebnÃ© aby oÂ n.Ãº. pacient vedel eÅ¡te pred podanÃ­m prvej dÃ¡vky aÂ aby vedel, Å¾e ide oÂ oÄakÃ¡vanÃ½ n.Ãº. sÂ predpokladom zmiernenia / Ãºstupu v Äase;
+?  vÂ neskorÅ¡Ã­ch fÃ¡zach (napr. uÂ roztoÄovÃ©ho pacienta po polroku aÅ¾ roku, uÂ polinotika po 1. sezÃ³ne, bÃ½va Äasto prÃ­Äinou nepokraÄovania vÂ lieÄbe aj pocit zlepÅ¡enia â€“ pacienti si myslia, Å¾e â€uÅ¾ sÃº vylieÄenÃ­â€œ;
+? dÄºÅ¾ka lieÄby: od samÃ©ho zaÄiatku aÂ vÂ priebehu kontrol pacienta treba stÃ¡le prÃ­zvukovaÅ¥, Å¾e lieÄba mÃ¡ trvaÅ¥ minimÃ¡lne 3 roky, musÃ­me rÃ¡taÅ¥ sÂ tÃ½m, Å¾e pacient sa nÃ¡s po Äase spÃ½ta â€preÄo tak dlhoâ€œ; v prÃ­pade VIT je vhodnÃ¡ dÄºÅ¾ka lieÄby aspoÅˆ 5 rokov, u niektorÃ½ch pacientov dokonca ojedinele aj celoÅ¾ivotne;
+? finanÄnÃ¡ nÃ¡roÄnosÅ¥: doplatky mÃ´Å¾u vÂ individuÃ¡lnych prÃ­padoch viesÅ¥ kÂ predÄasnÃ©mu ukonÄeniu (alebo dokonca nezaÄatiu) lieÄby, pacientovi treba vysvetliÅ¥, Å¾e sumu konkrÃ©tneho doplatku beÅ¾ne minie napr. na multivitamÃ­n;
+? poÄet nÃ¡vÅ¡tev na ambulancii: vÂ priebehu 3 roky trvajÃºcej lieÄby mÃ´Å¾e byÅ¥ problÃ©mom potreba ÄastÃ©ho uvoÄ¾nenia sa zÂ prÃ¡ce, aj preto â€“ ak je to moÅ¾nÃ© â€“ preferujeme SLIT pred SCIT aÂ individualizujeme formu kontrol (namiesto fyzickej kontroly mail, telefÃ³n, sociÃ¡lna sieÅ¥...);
+? pri peÄ¾ovej alergii hrÃ¡ veÄ¾mi vÃ½znamnÃº Ãºlohu aktuÃ¡lne mnoÅ¾stvo peÄ¾u sÂ vysokou medziroÄnou variabilitou; hodnoty konkrÃ©tneho peÄ¾u vÂ ovzduÅ¡Ã­ vyÅ¡Å¡ie ako vÂ roku pred zaÄatÃ­m lieÄby mÃ´Å¾u vyvolaÅ¥ pocit zlyhÃ¡vania lieÄby; naopak veÄ¾mi nÃ­zke hodnoty peÄ¾u vÂ konkrÃ©tnej sezÃ³ne mÃ´Å¾u pacienta viesÅ¥ kÂ mylnej predstave, Å¾e uÅ¾ nepotrebuje protialergickÃº lieÄbu (2).
+3. UkonÄenie
+- pacient pokraÄuje v lieÄbe tak dlho ako urÄil lekÃ¡r; na zaÄiatku a poÄas lieÄby opakovane treba vysvetÄ¾ovaÅ¥ ako dlho bude lieÄba trvaÅ¥.
+RozhodujÃºce faktory adherencie
+Pri adherencii sa zdÃ´razÅˆuje obojstrannosÅ¥ vzÅ¥ahu lekÃ¡r-pacient. VÂ zÃ¡ujme Äo najlepÅ¡ej adherencie kÂ lieÄbe / lieÄebnÃ©mu plÃ¡nu sa odporÃºÄa nasledovnÃ© (3, 4):
+- edukÃ¡cia pacienta: poskytnutie informÃ¡ciÃ­ o chorobe aÂ lieÄbe, vysvetlenie vÃ½znamu/zmyslu lieÄby, potrebnÃ©ho dÃ¡vkovania a dÄºÅ¾ky lieÄby zvyÅ¡uje adherenciu kÂ lieÄbe;
+- vzÃ¡jomnÃ¡ komunikÃ¡cia, asistencia pri lieÄbe: obojstrannÃ¡ komunikÃ¡cia je potrebnÃ¡ nie iba pri inicializÃ¡cii lieÄby, ale musÃ­ vÂ urÄitej (vzÃ¡jomne vyhovujÃºcej) podobe pokraÄovaÅ¥ aj vo fÃ¡ze implementÃ¡cie; mnohÃ­ pacienti budÃº maÅ¥ poÄas lieÄby novÃ©/opakovanÃ© otÃ¡zky Äi pochybnosti ktorÃ© potrebujÃº odkomunikovaÅ¥ â€“ ÄÃ­m rÃ½chlejÅ¡ie budÃº tieto otÃ¡zky zodpovedanÃ©, tÃ½m je menÅ¡ia pravdepodobnosÅ¥ odklonu od lieÄebnÃ©ho plÃ¡nu;
+- lieÄba Å¡itÃ¡ na mieru: pri mnohÃ½ch diagnÃ³zach aÂ ich lieÄbe dÃ¡ voliÅ¥ zÂ viacerÃ½ch moÅ¾nostÃ­ lieÄby â€“ vÂ prÃ­pade AIT sublinguÃ¡lna (SLIT) alebo subkutÃ¡nna (SCIT) forma, celoroÄnÃ½ alebo pred a ko-sezÃ³nny reÅ¾im, pri SLIT roztokovÃ¡ alebo tabletkovÃ¡ forma pod jazyk, pri SCIT klasickÃ½ alebo klastrovÃ½/zrÃ½chlenÃ½ reÅ¾im; vÅ¡etky moÅ¾nosti, ich vÃ½hody/nevÃ½hody, treba pacientovi zrozumiteÄ¾ne vysvetliÅ¥, ale moÅ¾nosÅ¥ voÄ¾by je vhodnÃ© ponechaÅ¥ aspoÅˆ do istej miery naÅˆ; pri AIT sa opakovane potvrdilo, Å¾e ak sa pacient podieÄ¾a na voÄ¾be typu lieÄby, je zotrvanie na lieÄbe vÃ½znamne vyÅ¡Å¡ie, uniformnÃ½ prÃ­stup kÂ lieÄbe bez zapojenia pacienta, respektÃ­ve direktÃ­vny prÃ­stup zo strany lekÃ¡ra vÃ½znamne zniÅ¾uje adherenciu (5, 6);
+- spoluprÃ¡ca: snaha zlepÅ¡iÅ¥ adherenciu kÂ lieÄbe sa stretÃ¡ sÂ Ãºspechom ak vÅ¡etky zainteresovanÃ© strany spolupracujÃº aÂ komunikujÃº â€“ lekÃ¡r Å¡pecialista,Â  zdravotnÃ¡ sestra, pacient, rodina pacienta, vÅ¡eobecnÃ½ lekÃ¡r, lekÃ¡rnik;
+- informaÄnÃ© zdroje: lekÃ¡ri aj vÃ½robcovia lieÄiv by mali podporiÅ¥ adherenciu aj rÃ´znymi ÄalÅ¡Ã­mi formami, ako sÃº informaÄnÃ© broÅ¾Ãºry, mobilnÃ© aplikÃ¡cie aÂ vzdelÃ¡vacie videÃ¡;
+- lieÄebnÃ½ reÅ¾im: mÃ¡ byÅ¥ Äo najjednoduchÅ¡Ã­, zloÅ¾itÃ© dÃ¡vkovacie schÃ©my vedÃº kÂ neÃºspechom; najideÃ¡lnejÅ¡ie dÃ¡vkovanie lieÄiva je 1x denne â€“ potreba viac dÃ¡vok za deÅˆ, ale aj preruÅ¡ovanÃ© reÅ¾imy (obdeÅˆ, 2x alebo 1x tÃ½Å¾denne) zniÅ¾ujÃº pravdepodobnosÅ¥ uÅ¾itia vÅ¡etkÃ½ch dÃ¡vok; dÃ´leÅ¾itÃ¡ je aj forma lieÄiva (injekcie alebo  p.o. Äi s.l. formy, veÄ¾kosÅ¥ tablety, pri roztokoch alebo rozpustnÃ½ch tabletkÃ¡ch ich chuÅ¥, rÃ½chlosÅ¥ rozpustenia), typ balenia, jednoduchosÅ¥ vybalenia aÂ aplikÃ¡cie dÃ¡vky, Å¡peciÃ¡lne skladovacie podmienky (chladniÄka alebo izbovÃ¡ teplota) aÂ pod; dÃ´leÅ¾itÃ© sÃº aj inÅ¡trukcie pacienta â€œna papieriâ€ â€“ je potrebnÃ© aby boli jednoduchÃ© aÂ pacientovi zrozumiteÄ¾nÃ©.
+ÃšÄinnosÅ¥ AIT je zÃ¡vislÃ¡ od dÃ¡vky
+ÃšÄinnosÅ¥ AIT zÃ¡visÃ­ od dosiahnutej dÃ¡vky terapeutickÃ©ho alergÃ©nu. Pri uvÃ¡dzanÃ­ SLIT do praxe prebehli viacerÃ© klinickÃ© Å¡tÃºdie posudzujÃºce zÃ¡vislosÅ¥ ÃºÄinnosti lieÄby od dosiahnutej dÃ¡vky alergÃ©nu (7,8). IndividuÃ¡lna tolerancia lieku sa mÃ´Å¾e vÃ½razne lÃ­Å¡iÅ¥, senzitÃ­vnejÅ¡Ã­ pacienti mÃ´Å¾u vyÅ¾adovaÅ¥ podÃ¡vanie redukovanej dÃ¡vky (Äo umoÅ¾Åˆuje roztokovÃ¡ forma alergÃ©nu), pozor ale na neÃºÄinnÃ© dÃ¡vky!
+Å tÃºdie ukÃ¡zali, Å¾e od urÄitej dÃ¡vky narastÃ¡ vÃ½skyt neÅ¾iaducich ÃºÄinkov lieÄby, na druhej strane od urÄitej dÃ¡vky sa jej ÄalÅ¡Ã­m navyÅ¡ovanÃ­m uÅ¾ ÃºÄinnosÅ¥ vÃ½znamnejÅ¡ie nezvyÅ¡uje (10). VÂ klinickej praxi je potrebnÃ© dodrÅ¾iavaÅ¥ dÃ¡vkovacÃ­ aÂ lieÄebnÃ½ reÅ¾im podÄ¾a odporÃºÄania vÃ½robcu aÂ odbornÃ½ch spoloÄnostÃ­ (9).
+SLIT realizuje sÃ¡m pacient aÂ je preto nevyhnutnÃ©, aby porozumel zÃ¡kladnÃ½m princÃ­pom lieÄby, aby ovlÃ¡dal techniku uÅ¾Ã­vania lieku aÂ aby sa sÂ Åˆou stotoÅ¾nil. DobrÃ¡ spoluprÃ¡ca aÂ komunikÃ¡cia medzi lekÃ¡rom aÂ pacientom je predpokladom ÃºspeÅ¡nosti lieÄby. NemoÅ¾no oÄakÃ¡vaÅ¥, Å¾e nedÃ´slednÃ¡, nepravidelnÃ¡, preruÅ¡ovanÃ¡ lieÄba, ktorÃ¡ nedosiahne odporÃºÄanÃº dÃ¡vku lieku povedie kÂ uspokojivÃ©mu vÃ½sledku.
+Osobitne je potrebnÃ© venovaÅ¥ Äas aÂ pozornosÅ¥ pacientom, ktorÃ­ vÂ Ãºvode SLIT pociÅ¥ujÃº dyskomfort vÂ oblasti Ãºstnej dutiny, Äo mÃ´Å¾e viesÅ¥ kÂ preruÅ¡eniu aÂ neochote pokraÄovaÅ¥ vÂ uÅ¾Ã­vanÃ­ alergÃ©nu. Ak lekÃ¡r dokÃ¡Å¾e pacientovi vysvetliÅ¥, Å¾e nejde oÂ zÃ¡vaÅ¾nejÅ¡ie vedÄ¾ajÅ¡ie ÃºÄinky lieku aÂ ide naopak oÂ prejav toho, Å¾e lieÄba pÃ´sobÃ­, prÃ¡ve tento argument mÃ´Å¾e prispieÅ¥ kÂ dÃ´slednejÅ¡iemu dodrÅ¾iavaniu aÂ realizÃ¡cii lieÄby. 
+KooperujÃºci aÂ edukovanÃ½ pacient sa viac pridÅ•Å¾a aj ÄalÅ¡Ã­ch odporÃºÄanÃ­, ktorÃ© sa mÃ´Å¾u vÃ½znamne podieÄ¾aÅ¥ na vÃ½sledku lieÄby: sprÃ¡vne uÅ¾Ã­vanie symptomatickÃ½ch liekov, rieÅ¡enie komorbidÃ­t aÂ pridruÅ¾enÃ½ch komplikÃ¡ciÃ­, dodrÅ¾iavanie reÅ¾imovÃ½ch opatrenÃ­, Ãºpravy vÂ domÃ¡com Äi pracovnom prostredÃ­.
+AIT je vÃ½nimoÄnÃ¡ pretrvÃ¡vanÃ­m dosiahnutÃ©ho efektu lieÄby aj po jej ukonÄenÃ­. Å tÃºdie ukazujÃº, Å¾e tento efekt zÃ¡visÃ­ od dosiahnutej urÄitej kumulatÃ­vnej dÃ¡vky terapeutickÃ©ho alergÃ©nu, aÂ teda vÂ prvom rade na dodrÅ¾anÃ­ odporuÄenej dÃ¡vkovacej schÃ©my. VÂ sÃºÄasnosti sa zriedka odporÃºÄa viac ako 5-roÄnÃ© podÃ¡vanie alergÃ©nu, vÃ½nimkou je vÂ individuÃ¡lnych prÃ­padoch celoÅ¾ivotnÃ© podÃ¡vanie AIT pri alergiÃ­ na jed blanokrÃ­dleho hmyzu. Å tandardnÃ¡ dÄºÅ¾ka lieÄby je 3 aÅ¾ 5 rokov. KratÅ¡ie trvanie lieÄby nezaisÅ¥uje dostatoÄne dlhÃ© pretrvÃ¡vanie jej pÃ´sobenia (11).
