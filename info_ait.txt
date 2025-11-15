@@ -1,132 +1,98 @@
-Alergické choroby postihujú v ekonomicky rozvinutých krajinách každého tretieho obyvateľa a predstavujú významný zdravotný a spoločensko-ekonomický problém (1,2). Okolo 40 % vyšetrených pacientov na Slovensku je senzibilizovaných na minimálne jeden alergén (3). Najčastejším klinickým následkom senzibilizácie sú prejavy respiračnej alergie, ale až polovica senzibilizovaných pacientov nemusí mať žiadne klinické prejavy (4). Vo svete sa prevalencia alergickej rinitídy (AR) pohybuje od 5 do 50 %, v Európe okolo 25 % (5). Takmer 50 % pacientov s AR má súčasne bronchiálnu hyperreaktivitu, ktorá je rizikom pre vznik astmy (6). Jej výskyt sa v Európe pohybuje medzi 5,1 % až 8,2 % (7). Deti s AR majú až 3-krát vyššiu pravdepodobnosť vzniku astmy v porovnaní s deťmi bez nádchy (6).
-K prejavom AR patrí svrbenie nosa a kýchanie, ktoré sa spája so zvýšenou sekréciou a následne nosovou obturáciou (tzv. kongesciou), ktorá je dominantným príznakom AR. Svrbenie často postihuje aj mäkké podnebie či zvukovody. Slzenie, začervenanie a svrbenie očí je častejšie u pacientov citlivých na peľové alergény. Bronchiálna hyperreaktivita sa najčastejšie prejaví dráždením ku kašľu, avšak v praxi treba odlíšiť inú príčinu kašľa, napríklad zatekanie hlienov. Astma sa prejavuje okrem kašľa aj pocitom tiesne na hrudníku, piskotmi a záchvatmi dýchavice. Alergické choroby často sprevádzajú aj psychické poruchy, najmä úzkosť a depresia u dospelých (8) či poruchy pozornosti a sústredenia u detí (9). Neuropsychiatrické príznaky môžu byť dôsledkom nesprávne alebo nedostatočne liečeného alergického ochorenia.
-
+Autori: MUDr. Radovan Košturiak, PhD; Doc. MUDr. Martin Hrubiško, PhD;  Prof. MUDr. Mgr. Miloš Jeseňák, PhD., MBA, Dott.Ric., MHA, FAAAAI; Prof. MUDr. Peter Pružinec, CSc.
+Rok: 2024
+Názov dokumentu: Alergénová imunoterapia – stručná príručka pre prax.
+-----------------------------------------------------------------------------------------------
+***KĽÚČOVÉ INFORMÁCIE:***
 **Alergické choroby predstavujú v súčasnosti najčastejšiu formu civilizačných ochorení a sú charakterizované tzv. prezenteizmom (stratou pracovnej produktivity bez práceneschopnosti).**
 ** Ekonomické dôsledky alergií môžu byť skryté, pritom ich celkový dopad na spoločnosť často prevyšuje iné vážne civilizačné choroby (10,11).**
 **Alergická nádcha predstavuje významný rizikový faktor pre vznik bronchiálnej astmy. ** 
-
-Alergénová imunoterapia
-Alergénová imunoterapia (AIT) sa využíva v liečbe alergických chorôb už viac ako 110 rokov (4). Tento liečebný postup pozostáva z opakovanej a viacročnej aplikácie alergénov buď subkutánne (SCIT) alebo sublinguálne (SLIT) (12). Cieľom AIT je navodiť toleranciu na alergén, ktorý je príčinou pacientových ťažkostí. Na rozdiel od  symptomatickej farmakoterapie pretrváva účinok AIT niekoľko rokov po skončení liečby (1). V súčasnosti považujeme AIT za jedinú príčinnú (kauzálnu) liečbu schopnú modifikovať priebeh alergickej choroby (5,13). Terapia je cielená a personalizovaná, založená na potrebách a preferenciách konkrétneho pacienta (14).
-V Európe reprezentuje SLIT približne 45 % celkovej AIT, pričom z nových lekárskych predpisov tvorí až 80 % (15). Podľa metaanalýz považujeme účinnosť SCIT a SLIT za porovnateľnú (16). V prípade SCIT nie je rozdiel medzi efektivitou natívneho či modifikovaného alergénu - alergoidu (16,17). 
-
-    
 **Alergénová imunoterapia predstavuje jedinú kauzálnu liečbu alergických chorôb.** 
 **Cieľom je navodiť toleranciu na alergén, ktorý je zodpovedný za klinické ťažkosti pacienta**.
 **Efekt AIT pretrváva aj po ukončení terapie**
 **SCIT a SLIT považujeme z hľadiska účinnosti za rovnocenné formy liečby**.
-
-
-Mechanizmus AIT
-Účinok AIT na imunitný systém je komplexný a ovplyvňuje zložky vrodenej (nešpecifickej) i získanej (špecifickej) imunity (2). Kľúčovým mechanizmom je indukcia regulačných buniek v rôznych bunkových subpopuláciách zapojených do patofyziológie alergického zápalu, ktoré produkujú tolerogénne cytokíny (napr. IL-10, TGF-?, IL-35 alebo IL-22) a obnovujú rovnováhu v porušenej imunitnej reaktivite (13). V prípade T a B-lymfocytov vznikajú regulačné Treg resp. Breg bunky, vrodené lymfoidné bunky (ILC) sú zdrojom regulačných ILCreg buniek a NK-bunky sa transformujú na NKreg (2,13,18,19). Analogicky vznikajú regulačné subpopulácie antigén-prezentujúcich dendritových buniek (DCreg) či makrofágov (M2) (19). Alergénová imunoterapia potláča reakciu 2. typu a s časovým odstupom znižuje produkciu špecifického IgE. Na druhej strane podporuje tvorbu blokujúcich IgG4 protilátok a alergén-špecifického sekrečného IgA (2). Dochádza k nastoleniu imunologickej tolerancie k alergénu. Keďže klinické účinky trvajú aj po ukončení liečby, je pravdepodobné, že AIT pozitívne ovplyvňuje imunitný tréning ako aj pamäťové T a B bunky (13). 
-
-
-**Alergénová imunoterapia nastoľuje imunologickú toleranciu voči alergénu a inhibuje včasnú aj neskorú fázu alergén-špecifickej imunitnej odpovede**(13).
-
-
-Klinický účinok AIT
-Účinok AIT môžeme rozdeliť na terapeutický a preventívny. Oba efekty boli potvrdené v mnohých randomizovaných kontrolovaných štúdiách (RCT) a ich metaanalýzach. Tento dokument sa venuje významu AIT v liečbe a prevencii  alergickej rinokonjunktivitídy a alergickej bronchiálnej astmy. Iným typom AIT sú venované samostatné publikácie (20). 
-Väčšina RCT štúdií sledovala tri primárne liečebné ciele: 1. zníženie závažnosti a výskytu symptómov (merané štandardizovanými orgán-špecifickými dotazníkmi), 2. pokles spotreby symptomatickej liečby a 3. kombinácia oboch parametrov. K sekundárnym parametrom patrila kvalita života a bezpečnosť liečby, ale aj preventívne ciele ako objavenie sa nových senzibilizácií, vznik astmy či výskyt infekcií. Okrem krátkodobého účinku môže mať aspoň 3 roky trvajúca AIT aj dlhodobý (viac ako 2 roky od ukončenia liečby) terapeutický či preventívny efekt (13). Viaceré práce naznačujú pretrvávanie účinku oveľa dlhšie. 
-
+**Alergénová imunoterapia nastoľuje imunologickú toleranciu voči alergénu a inhibuje včasnú aj neskorú fázu alergén-špecifickej imunitnej odpovede**
 **AIT má terapeutický a preventívny účinok**
 **Terapeutický efekt  delíme na krátkodobý (počas podávania AIT) a dlhodobý (trvajúci minimálne 2 roky od skončenia liečby)**
 **Preventívny účinok AIT  považujeme za krátkodobý, ak trvá menej ako 2 roky od ukončenia AIT .  Dlhodobý preventívny efekt  pretrváva  viac ako 2 roky po ukončení AIT**.
- 
+**Alergénová imunoterapia zmierňuje nosové aj očné príznaky alergickej rinokonjuktivitídy, znižuje frekvenciu ich výskytu a znižuje spotrebu symptomatickej liečby. **
+**Účinok AIT v liečbe AR je vyšší ako účinok antihistaminík a je porovnateľný s efektom topických kortikoidov. ** 
+**Na rozdiel od farmakoterapie pretrváva efekt AIT niekoľko rokov aj po jej skončení. **
+**Alergénová imunoterapia zmierňuje príznaky alergickej astmy, znižuje spotrebu záchrannej medikácie a zlepšuje kvalitu života pacientov (potvrdené RCT). **
+**Alergénová imunoterapia znižuje výskyt závažných exacerbácií, hospitalizácií pre astmu, počet respiračných infekcií a s tým súvisiace náklady (potvrdené real-life štúdiami a niektorými RCT). **
+**Alergénová imunoterapia modifikuje priebeh astmy, znižuje jej závažnosť a stupeň liečby na dosiahnutie kontroly (RCT a real-life štúdie) **. 
+**Liečba SLIT roztočovou tabletou je súčasťou medzinárodných smerníc na liečbu astmy (GINA) **
+**Alergénová imunoterapia nie je určená na prevenciu vzniku alergickej rinokonjuktivitídy u asymptomatických senzibilizovaných jedincov. **
+**Alergénová imunoterapia má potenciál znížiť riziko nových senzibilizácií**.
+**Alergénová imunoterapia znižuje riziko vzniku bronchiálnej astmy u osôb s  AR. **
+**Alergénová imunoterapia znižuje riziko progresie už etablovanej astmy. **
+**Dlhodobý preventívny efekt na vznik astmy je najlepšie zdokumentovaný pre SCIT a SLIT v celoročnom režime**
+**Najsilnejšie dôkazy preventívneho efektu sú pre alergény roztočov a tráv, ale redukcia rizika bola zaznamenaná pri väčšine alergénov. **
+**Optimálne trvanie AIT je 3-5 rokov. **
+**Priaznivý efekt AIT môže trvať 8 – 10 rokov. **
+**Klinický nástup účinku AIT možno pozorovať už po 2 - 4 mesiacoch od jej iniciácie. **
+**AIT  indikuje klinický imunológ a alergológ. Ide o unikátnu terapeutickú modalitu, ktorá definuje tento odbor. **
+**Pri indikáciu sa berie do úvahy: anamnéza pacienta, závažnosť klinických príznakov, vzťah medzi alergénom a ťažkosťami pacienta a dôkaz senzibilizácie IgE typu. **
+**Komponentová diagnostika prispieva k spresneniu indikácie AIT**.
+**U pacienta senzibilizovaného na viac alergénov je vo väčšine prípadov možné určiť jeden dominantný alergén na základe anamnézy, kožných testov a komponentovej diagnostiky**
+**Aj v prípade viacerých rovnocenných alergénov je AIT možná, potrebná je však snaha identifikovať čo najmenší počet relevantných alergénov**
+**Alergénová imunoterapia je bezpečná a závažné reakcie sú zriedkavé. ** 
+**Menej systémových reakcií sa vyskytuje pri SLIT ako pri SCIT. **
+**Po každom podaní SCIT musí byť pacient sledovaný 30 minút. **
+**Po 1. aplikácii SLIT musí byť pacient sledovaný 30 min. **
+**Je potrebné dodržiavať podmienky podania AIT uvedené v SPC**.
+**Pred začatím AIT treba zvážiť indikáciu, kontraindikácie, prínos a prípadné riziká pre pacienta. **
+**Liečbu nezačíname/nepodávame v štádiu exacerbovanej choroby (nestabilná astma, akútny priebeh alergie), ani v prípade interkurentnej infekcie. **
+**Pred každou aplikáciou alergénu má byť pacient fyzicky aj psychicky v pokoji. **
+**Je potrebné, aby pacient počas liečby dosiahol dostatočnú kumulatívnu dávku alergénu**.
+**Úlohou alergológa je vybrať a nastaviť najúčinnejšiu liečbu: výber jedného (preferenčne) alebo viacerých dominantných príčinných alergénov**
+**Na rozlíšenie polyreaktivity od skutočnej polysenzibilizácie sa využíva molekulová (tzv. komponentová) diagnostika. **
+**V prípade viacerých relevantných príčinných alergénov  je možné podávanie dvoch (maximálne troch) alergénov, a to buď súčasne, alebo následne. **
+**Cieľom AIT je redukcia, prípadne úplné vynechanie symptomatickej farmakoterapie. **
+-----------------------------------------------------------------------------------------
 
-Liečba alergickej rinokonjunktivitídy
+Alergické choroby postihujú v ekonomicky rozvinutých krajinách každého tretieho obyvateľa a predstavujú významný zdravotný a spoločensko-ekonomický problém (1,2). Okolo 40 % vyšetrených pacientov na Slovensku je senzibilizovaných na minimálne jeden alergén (3). Najčastejším klinickým následkom senzibilizácie sú prejavy respiračnej alergie, ale až polovica senzibilizovaných pacientov nemusí mať žiadne klinické prejavy (4). Vo svete sa prevalencia alergickej rinitídy (AR) pohybuje od 5 do 50 %, v Európe okolo 25 % (5). Takmer 50 % pacientov s AR má súčasne bronchiálnu hyperreaktivitu, ktorá je rizikom pre vznik astmy (6). Jej výskyt sa v Európe pohybuje medzi 5,1 % až 8,2 % (7). Deti s AR majú až 3-krát vyššiu pravdepodobnosť vzniku astmy v porovnaní s deťmi bez nádchy (6).
+K prejavom AR patrí svrbenie nosa a kýchanie, ktoré sa spája so zvýšenou sekréciou a následne nosovou obturáciou (tzv. kongesciou), ktorá je dominantným príznakom AR. Svrbenie často postihuje aj mäkké podnebie či zvukovody. Slzenie, začervenanie a svrbenie očí je častejšie u pacientov citlivých na peľové alergény. Bronchiálna hyperreaktivita sa najčastejšie prejaví dráždením ku kašľu, avšak v praxi treba odlíšiť inú príčinu kašľa, napríklad zatekanie hlienov. Astma sa prejavuje okrem kašľa aj pocitom tiesne na hrudníku, piskotmi a záchvatmi dýchavice. Alergické choroby často sprevádzajú aj psychické poruchy, najmä úzkosť a depresia u dospelých (8) či poruchy pozornosti a sústredenia u detí (9). Neuropsychiatrické príznaky môžu byť dôsledkom nesprávne alebo nedostatočne liečeného alergického ochorenia.
+
+*Alergénová imunoterapia*
+Alergénová imunoterapia (AIT) sa využíva v liečbe alergických chorôb už viac ako 110 rokov (4). Tento liečebný postup pozostáva z opakovanej a viacročnej aplikácie alergénov buď subkutánne (SCIT) alebo sublinguálne (SLIT) (12). Cieľom AIT je navodiť toleranciu na alergén, ktorý je príčinou pacientových ťažkostí. Na rozdiel od  symptomatickej farmakoterapie pretrváva účinok AIT niekoľko rokov po skončení liečby (1). V súčasnosti považujeme AIT za jedinú príčinnú (kauzálnu) liečbu schopnú modifikovať priebeh alergickej choroby (5,13). Terapia je cielená a personalizovaná, založená na potrebách a preferenciách konkrétneho pacienta (14).
+V Európe reprezentuje SLIT približne 45 % celkovej AIT, pričom z nových lekárskych predpisov tvorí až 80 % (15). Podľa metaanalýz považujeme účinnosť SCIT a SLIT za porovnateľnú (16). V prípade SCIT nie je rozdiel medzi efektivitou natívneho či modifikovaného alergénu - alergoidu (16,17). 
+
+*Mechanizmus AIT*
+Účinok AIT na imunitný systém je komplexný a ovplyvňuje zložky vrodenej (nešpecifickej) i získanej (špecifickej) imunity (2). Kľúčovým mechanizmom je indukcia regulačných buniek v rôznych bunkových subpopuláciách zapojených do patofyziológie alergického zápalu, ktoré produkujú tolerogénne cytokíny (napr. IL-10, TGF-?, IL-35 alebo IL-22) a obnovujú rovnováhu v porušenej imunitnej reaktivite (13). V prípade T a B-lymfocytov vznikajú regulačné Treg resp. Breg bunky, vrodené lymfoidné bunky (ILC) sú zdrojom regulačných ILCreg buniek a NK-bunky sa transformujú na NKreg (2,13,18,19). Analogicky vznikajú regulačné subpopulácie antigén-prezentujúcich dendritových buniek (DCreg) či makrofágov (M2) (19). Alergénová imunoterapia potláča reakciu 2. typu a s časovým odstupom znižuje produkciu špecifického IgE. Na druhej strane podporuje tvorbu blokujúcich IgG4 protilátok a alergén-špecifického sekrečného IgA (2). Dochádza k nastoleniu imunologickej tolerancie k alergénu. Keďže klinické účinky trvajú aj po ukončení liečby, je pravdepodobné, že AIT pozitívne ovplyvňuje imunitný tréning ako aj pamäťové T a B bunky (13). 
+
+*Klinický účinok AIT*
+Účinok AIT môžeme rozdeliť na terapeutický a preventívny. Oba efekty boli potvrdené v mnohých randomizovaných kontrolovaných štúdiách (RCT) a ich metaanalýzach. Tento dokument sa venuje významu AIT v liečbe a prevencii  alergickej rinokonjunktivitídy a alergickej bronchiálnej astmy. Iným typom AIT sú venované samostatné publikácie (20). 
+Väčšina RCT štúdií sledovala tri primárne liečebné ciele: 1. zníženie závažnosti a výskytu symptómov (merané štandardizovanými orgán-špecifickými dotazníkmi), 2. pokles spotreby symptomatickej liečby a 3. kombinácia oboch parametrov. K sekundárnym parametrom patrila kvalita života a bezpečnosť liečby, ale aj preventívne ciele ako objavenie sa nových senzibilizácií, vznik astmy či výskyt infekcií. Okrem krátkodobého účinku môže mať aspoň 3 roky trvajúca AIT aj dlhodobý (viac ako 2 roky od ukončenia liečby) terapeutický či preventívny efekt (13). Viaceré práce naznačujú pretrvávanie účinku oveľa dlhšie. 
+
+*Liečba alergickej rinokonjunktivitídy*
 Meta-analýza 51 štúdií z rokov 1950 až 2006 zisťovala účinnosť subkutánnej AIT (SCIT) v liečbe sezónnej (peľovej) alergickej nádchy (21). V štúdiách boli použité tieto alergény: zmiešané trávy (16 štúdií), ambrózia (12 štúdií), múrovník (6 štúdií), timotejka (5 štúdií), breza (4 štúdie), céder (3 štúdie) a ďalšie, u nás menej časté druhy.   U liečených pacientov došlo k významnému zníženiu symptómového skóre (vyjadrenému ako štandardný priemerný rozdiel, t.j. SMD) o -0,73 (95 % CI -0,97 až -0,50) a spotreby liekov na alergiu -0,57 (95 % CI -0,82 až -0,33).
 Do novšej meta-analýzy z roku 2017 bolo zaradených 16 štúdií so SCIT a 41 štúdií so SLIT (17).  Práca potvrdila pokles symptómového skóre SMD = -0,53 (95 % CI -0,63 až -0,42) ako aj redukciu spotreby antialergík SMD = -0,38 (95 % CI -0,49 až -0,26) u pacientov v ramene s AIT. Keďže kontrolná skupina bola vo väčšine novších štúdií liečená účinnou farmakoterapiou v súlade s odporúčaniami, závery potvrdzujú aditívny účinok AIT k štandardnej liečbe AR (5). 
 Cieľom nedávnej metaanalýzy štúdií z rokov 1998 – 2023 u osôb do 18 rokov bolo porovnať efekt SCIT a SLIT (22). Analýza nezistila rozdiely v účinku na symptómové, medikamentózne či kombinované skóre, nelíšil sa ani rozvoj nových senzibilizácií či pravdepodobnosť vzniku astmy. SCIT aj SLIT preto považujeme za rovnocenné.
 Veľkosť účinku AIT peľovými sublinguálnymi tabletami na príznaky sezónnej AR je porovnateľný s najúčinnejšími topickými kortikoidmi a je vyšší ako dosahujú moderné orálne antihistaminiká 2. generácie (23). Pri celoročnej nádche vyvolanej roztočmi je efekt tabletovej AIT v dávke 12-SQ dokonca vyšší ako dosahuje liečba topickými kortikoidmi (23).
 V posledných rokoch pribudli dôkazy o účinnosti AIT v podmienkach reálnej praxe (24,25). Analýzy databáz poisťovní zahŕňajú desiatky tisíc poistencov a sú zdrojom dôkazov aké nemôžu poskytnúť randomizované kontrolované štúdie (26). Aj tieto štúdie potvrdili terapeutický efekt AIT na príznaky AR, čo vedie k zníženej spotrebe symptomatickej medikácie. Tieto práce potvrdili pretrvávanie účinku AIT až 9 rokov (25).
 
-
-
-
-
-
-**Alergénová imunoterapia zmierňuje nosové aj očné príznaky alergickej rinokonjuktivitídy, znižuje frekvenciu ich výskytu a znižuje spotrebu symptomatickej liečby. **
-**Účinok AIT v liečbe AR je vyšší ako účinok antihistaminík a je porovnateľný s efektom topických kortikoidov. ** 
-**Na rozdiel od farmakoterapie pretrváva efekt AIT niekoľko rokov aj po jej skončení. **
-
-
-Liečba alergickej astmy
+*Liečba alergickej astmy*
 Efekt AIT v liečbe bronchiálnej astmy je potrebné posudzovať v kontexte nízkeho počtu exacerbácií resp. dobrej kontroly astmy, ktorá je jednou z podmienok pre indikáciu AIT a zaradenie pacienta do RCT (13,15). Z uvedených dôvodov bola Cochrane meta-analýza efektu AIT na exacerbácie nejednoznačná, hoci došlo k zlepšeniu kvality života astmatikov, zmierneniu príznakov a poklesu spotreby záchrannej medikácie (15). Aj posledná meta-analýza RCT štúdií priniesla podobné výsledky: signifikantne nižšie celkové skóre príznakov u astmatikov liečených SLIT, napriek nevýznamnému rozdielu v dávke inhalačných kortikoidov, vo frakcii vydychovaného oxidu dusnatého (FeNO), v objeme vydýchnutom za 1. sekundu úsilného výdychu (FEV1) či v priamych nákladoch na liečbu (27). Na druhej strane, RCT štúdia astmy nedostatočne kontrolovanej monoterapiou inhalačnými kortikoidmi, dokázala pri 12-SQ roztočovej tablete zníženie rizika stredných a ťažkých exacerbácií o 31 % (p=0,03) (28). Pozitívne výsledky viedli v roku 2021 k zaradeniu SLIT roztočovou tabletou do smerníc GINA na liečbu astmy spôsobenej roztočmi, ak je hodnota FEV1 > 70 %, pričom aktuálne je táto liečba odporúčaná v kroku 2 – 4 (29). Samotná GINA však pripúšťa možný efekt AIT aj s inými alergénmi, ktoré sú pre daného pacienta príčinné, najmä ak je pridružená AR.
 Vhodnejšie typy štúdií, napríklad 3-ročné prospektívne sledovanie dánskej kohorty, potvrdilo signifikantne menej exacerbácií v ramene s AIT (prevažne SCIT) s priemerným poklesom o 57 % v prípade roztočovej astmy a 74 % v prípade peľovej astmy (30). 
 Pozitívne boli aj výsledky 10-ročnej retrospektívnej analýzy z reálneho života, ktorá sledovala viac ako 46.000 pacientov v ramene s AIT (25). Okrem schopnosti zmierniť astmu a redukovať stupeň liečby, došlo u astmatikov liečených AIT k signifikantnému poklesu závažných exacerbácií a hospitalizácií, ako aj k zníženiu počtu respiračných infekcií (13).
-
-
-
-
-
-
-
   
-**Alergénová imunoterapia zmierňuje príznaky alergickej astmy, znižuje spotrebu záchrannej medikácie a zlepšuje kvalitu života pacientov (potvrdené RCT). **
-**Alergénová imunoterapia znižuje výskyt závažných exacerbácií, hospitalizácií pre astmu, počet respiračných infekcií a s tým súvisiace náklady (potvrdené real-life štúdiami a niektorými RCT). **
-**Alergénová imunoterapia modifikuje priebeh astmy, znižuje jej závažnosť a stupeň liečby na dosiahnutie kontroly (RCT a real-life štúdie) **. 
-**Liečba SLIT roztočovou tabletou je súčasťou medzinárodných smerníc na liečbu astmy (GINA) **
-
-
-
-Prevencia vzniku alergickej nádchy u rizikových a senzibilizovaných osôb
+*Prevencia vzniku alergickej nádchy u rizikových a senzibilizovaných osôb*
 Metaanalýza 32 štúdií štúdií v roku 2017 nepreukázala zníženie rizika vzniku prvého alergického ochorenia u senzibilizovaných osôb (primárna prevencia): RR = 0,30 (95% CI 0,04 až 2,09), potvrdila však pokles krátkodobého rizika vzniku astmy (RR = 0,40 (95% CI 0,3 až 0,54)) či zníženie rizika nových senzibilizácií (RR = 0,33 (95%CI 0,12 až 0,93) (6). Tieto pozitívne výsledky boli dosahované najmä v podskupine mladších s minimálnou dĺžkou liečby 3 roky. Čo sa týka zníženia rizika vzniku nových senzibilizácií, výsledky z jednotlivých štúdií nie sú konzistentné. Uvádza sa, že môže ísť iba o efekt niektorých prípravkov, respektíve iba niektorých alergénov. Budú potrebné ďalšie dobre dizajnované práce na potvrdenie tohto preventívneho efektu.
 
-
-
-**Alergénová imunoterapia nie je určená na prevenciu vzniku alergickej rinokonjuktivitídy u asymptomatických senzibilizovaných jedincov. **
-**Alergénová imunoterapia má potenciál znížiť riziko nových senzibilizácií**.
-
-
-
-
-
-
-Prevencia alergickej astmy
+*Prevencia alergickej astmy*
 RTC štúdie, ktoré hodnotia dlhodobú účinnosť AIT u osôb s alergickou nádchou naznačujú, že AIT môže znížiť riziko vzniku astmy (6,13).
 Meta-analýza 18 štúdií potvrdila pokles rizika rozvoja astmy o 25 % (RR = 0,75 (95% CI 0,64  až 0,88)) u pacientov liečených AIT, avšak štúdie boli veľmi nehomogénne (31). Preventívny účinok AIT bol markantnejší u detí, monosenzibilizovaných pacientov a pri liečbe trvajúcej najmenej 3 roky. Efekt nebol závislý od alergénu (peľ tráv alebo roztoče) či spôsobu podávania (SCIT, SLIT tablety alebo SLIT roztok). Výsledky boli presvedčivé v krátkodobom horizonte troch rokov (31).
 Analýzy z reálnej praxe sú v súlade s dátami získanými z RCT a potvrdzujú dlhodobú účinnosť AIT pri liečbe alergickej rinitídy a astmy, ale aj preventívne účinky na vznik astmy. Efekt bol preukázaný počas 9 rokov sledovania bez ohľadu na typ AIT (SCIT alebo SLIT) alebo druh alergénu (roztoče, peľ brezy alebo trávy) (26). V nemeckej 7 ročnej retrospektívnej analýze bol výskyt astmy u pacientov, liečených jednou z trávových sublinguálnych tabliet, o 42 % nižší ako v kontrolnej skupine bez SLIT (32). Zatiaľ najväčšia analýza z reálneho života, porovnávajúca 110.000 pacientov liečených roztokovou SLIT s takmer 334.000 kontrolami, potvrdila redukciu vzniku astmy o 23 až 38 % v závislosti od definície (33). Účinok sa týkal všetkých alergénov, ale signifikantný bol pri roztočoch ( - 42 %) a trávach (- 48 %). Asi jedna tretina astmatikov bola zároveň ochránená pred progresiou choroby.
 
-
-
-**Alergénová imunoterapia znižuje riziko vzniku bronchiálnej astmy u osôb s  AR. **
-**Alergénová imunoterapia znižuje riziko progresie už etablovanej astmy. **
-**Dlhodobý preventívny efekt na vznik astmy je najlepšie zdokumentovaný pre SCIT a SLIT v celoročnom režime**
-**Najsilnejšie dôkazy preventívneho efektu sú pre alergény roztočov a tráv, ale redukcia rizika bola zaznamenaná pri väčšine alergénov. **
-
-
-Dĺžka AIT liečby a pretrvávanie efektu
+*Dĺžka AIT liečby a pretrvávanie efektu*
 Optimálne trvanie AIT liečby je 3-5 rokov (34). Imunologické zmeny možno pozorovať už v priebehu 6 – 8 týždňov od začiatku aplikácie AIT, pričom klinický efekt je pozorovateľný za 2 – 4 mesiace (35). Maximálny terapeutický efekt (zmiernenie symptómov a znížená spotreba medikácie) sa dosahuje v 2. roku liečby a ďalšie pokračovanie AIT zabezpečuje dlhodobú účinnosť a udržanie imunitnej tolerancie (13).
 Viac ako polovica pacientov (53 %) s vymiznutými príznakmi zostala, po absolvovaní 3 ročnej liečby roztočovou subkutánnou AIT, asymptomatická aj po 10 rokoch (36). Rovnaký účinok potvrdila aj real-life databázová retrospektívna analýza, kde znížená spotreba antialergík aj antiastmatík pretrvávala 9 rokov po liečbe (25). Nebol zistený rozdiel v trvaní efektu medzi SCIT a SLIT (37). 
 
-
-**Optimálne trvanie AIT je 3-5 rokov. **
-**Priaznivý efekt AIT môže trvať 8 – 10 rokov. **
-**Klinický nástup účinku AIT možno pozorovať už po 2 - 4 mesiacoch od jej iniciácie. **
-
-
-
-Všeobecné pravidlá indikácie AIT
+*Všeobecné pravidlá indikácie AIT*
 Indikácia a správna realizácia AIT si vyžaduje odbornú erudíciu, exaktnú etiologickú diagnostiku a dostatočné klinické skúsenosti špecialistu v odbore alergológia a klinická imunológia (38). Indikácia AIT vychádza zo syntézy anamnézy, objektívneho nálezu, prostredia v ktorom pacient žije, fenologického pozorovania, v prípade polinózy zo správ peľovej informačnej služby a z realizácie alergénových testov (kožný prick test a vyšetrenie špecifických IgE protilátok, šIgE). V súčasnosti je vhodné okrem extraktových testov aj tzv. komponentovú (molekulovú) diagnostiku šIgE, ktorá významnou mierou prispieva k spresneniu indikácie AIT.  Správna interpretácia výsledkov kožných testov a laboratórnych vyšetrení v kontexte klinických a anamnestických údajov je kľúčom k budúcemu úspechu AIT.
 
 
-
-
-
-**AIT  indikuje klinický imunológ a alergológ. Ide o unikátnu terapeutickú modalitu, ktorá
-definuje tento odbor. **
-**Pri indikáciu sa berie do úvahy: anamnéza pacienta, závažnosť klinických príznakov, vzťah medzi alergénom a ťažkosťami pacienta a dôkaz senzibilizácie IgE typu. **
-**Komponentová diagnostika prispieva k spresneniu indikácie AIT**.
- 
-
-
-
-
-
-
-
 **AIT je indikovaná, ak sú splnené tieto kritériá** (16,34):
-
-
 * Vek 5 a viac rokov
 * Pacient s predpokladom dostatočnej adherencie
 * Symptómy alergickej rinokonjunktivitídy (s alebo bez astmy)
@@ -136,10 +102,7 @@ o menej závažné, ak chce pacient znížiť/eliminovať potrebu farmakoterapie
 * Je dostupné vhodné liečivo pre AIT. Prednostne by sa mali používať štandardizované produkty s dôkazom účinnosti v klinických štúdiách
 * Nie je prítomná kontraindikácia
 
-
-
 **Kontraindikácie AIT** (16,34):
-
 * Absolútne
 o ťažká alebo nedostatočne kontrolovaná astma (FEV1<70%, závažná exacerbácia pred menej ako 3 mesiacmi (28))
 o aktívne onkologické ochorenie
@@ -152,36 +115,18 @@ o závažné choroby v pokojovom štádiu, pri ktorých by AIT mohla predstavova
 o  závažná systémová reakcia po AIT
 o  betablokátory (vrátane lokálnych)
 
-
-
-Výber AIT u pacienta senzibilizovaného na viac alergénov
+*Výber AIT u pacienta senzibilizovaného na viac alergénov*
 V randomizovaných kontrolovaných štúdiách bolo 66 až 90 % pacientov senzibilizovaných na viac alergénov (39). Meta-analýza 10 štúdií s roztočovou AIT dokázala rovnakú úroveň klinického zlepšenia alergickej nádchy medzi monosenzibilizovanými či polysenzibilizovanými pacientami (39). 
 Pre posúdenie klinického významu alergénu nie je rozhodujúca veľkosť reakcie v kožných testoch či koncentrácia šIgE proti alergénovému extraktu, ale charakter a intenzita alergických príznakov, ich trvanie a väzba na expozíciu daným alergénom (napr. peľová sezóna, prostredie s roztočmi či plesňami) a vplyv na kvalitu života pacienta (34). Pozitivita alergénových testov svedčí pre senzibilizáciu, pri nastavení liečby je však kľúčovou otázkou posúdenie kauzálnej súvislosti ťažkostí pacienta s vytestovaným alergénom. Určenie klinicky relevantného alergénu sa vo veľkej miere opiera o anamnézu. Prediktívna hodnota samotnej anamnézy u pacientov so sezónnou AR je 82 - 85 % a u pacientov s celoročnou AR asi 77 %. Ak sa použije kožný test a stanovenie šIgE, prediktívna hodnota sa zvýši na 97 - 99 % (34). Veľmi prínosná je komponentová diagnostika (t.j. stanovenie špecifických IgE proti alergénovým komponentom konkrétneho zdroja alergénu), ktorá najmä u polysenzibilizovaných pacientov umožňuje presnejšiu selekciu alergénu pre AIT (34). 
 
-
-
-**U pacienta senzibilizovaného na viac alergénov je vo väčšine prípadov možné určiť jeden dominantný alergén na základe anamnézy, kožných testov a komponentovej diagnostiky**
-**Aj v prípade viacerých rovnocenných alergénov je AIT možná, potrebná je však snaha identifikovať čo najmenší počet relevantných alergénov**
-
-
-
-Bezpečnosť AIT
+*Bezpečnosť AIT*
 Približne 0,1 – 0,6 % AIT injekcií vedie k systémovým reakciám, čo predstavuje 1-6 reakcií na 1000 podaní (5,40). Väčšina z nich je mierna až stredná. Závažná anafylaxia (stupeň 4 a viac) sa vyskytuje v počte 1/1.000.000 a smrťou sa môže skončiť jedna z 23 milióna aplikácií (5). 
 Väčšina smrteľných anafylaktických reakcií začína do 30 minút po injekcii SCIT, preto všetci pacienti musia byť pozorovaní 30 minút po každom podaní.  Približne 15 % systémových alergických reakcií sa začína po 30 minútach, ale prevažne ide o ľahké až stredné reakcie (1. a 2. stupeň) (40).
 Pozorovanie je potrebné aj po prvej dávke SLIT. V prípade SLIT tabliet sú systémové reakcie zriedkavé, bolo hlásených len niekoľko prípadov anafylaxie a doteraz sa nevyskytli žiadne smrteľné prípady (40). Naopak, častý je výskyt lokálnych reakcií v ústnej dutine, ktoré sú väčšinou mierne a spontánne vymiznú, zvyčajne za 10 – 20 dní pri pokračujúcej liečbe, dochádza k nastoleniu imunologickej tolerancie alergénu (16,40).
 Betablokátory nezvyšujú riziko anafylaxie, avšak môžu byť spojené so závažnejším priebehom pre nedostatočný účinok adrenalínu (5).
 Viac systémových nežiaducich účinkov sa vyskytuje pri SCIT v porovnaní so SLIT, preto niektorí autori v detskom veku uprednostňujú SLIT (22).
 
-
-**Alergénová imunoterapia je bezpečná a závažné reakcie sú zriedkavé. ** 
-**Menej systémových reakcií sa vyskytuje pri SLIT ako pri SCIT. **
-**Po každom podaní SCIT musí byť pacient sledovaný 30 minút. **
-**Po 1. aplikácii SLIT musí byť pacient sledovaný 30 min. **
-**Je potrebné dodržiavať podmienky podania AIT uvedené v SPC**.
-
-
-
-Zásady správnej realizácie AIT
+*Zásady správnej realizácie AIT*
 AIT indikuje, realizuje lekár so špecializáciou v odbore klinická imunológia a alergológia. Všeobecne je AIT indikovaná u pacienta, ktorý trpí alergickou chorobou (rinitída, astma, alergia na blanokrídly hmyz, pri ktorej sa podarilo určiť príčinný(é) alergén(y). Ak je kauzalita vytestovaných alergénov vo vzťahu k pacientovým ťažkostiam neistá, AIT neindikujeme.
 Pred začatím AIT treba zvážiť individuálny prínos a riziká pre každého pacienta. Pacient má byť podrobne informovaný o plánovanej liečbe, jej princípoch, o prínosoch aj možných nežiaducich účinkoch, ako aj druhoch a možných protokoloch AIT (klasický alebo klastrový protokol podávania, celoročný alebo pred- a ko-sezónny režim), pričom o tom spolu s lekárom podpíše informovaný súhlas.
 Liečbu nezačíname na vrchole peľovej sezóny daného alergénu a nepodávame v štádiu exacerbovanej choroby (nestabilná astma, akútny priebeh alergie), ani v prípade interkurentnej infekcie. Časový odstup od infekcie posudzujeme individuálne, pacient by mal byť aspoň 3 dni bez zdravotných ťažkostí. SCIT neaplikujeme u pacienta bezprostredne po fyzickej námahe a pod vplyvom alkoholu.
@@ -189,17 +134,10 @@ SCIT sa podáva  vo dvojici (lekár, sestra), personál má byť vyškolený pre
 Postupujeme podľa SPC konkrétneho zvoleného prípravku. Pri subkutánnej liečbe však môžeme protokol podľa konkrétnej situácie individuálne modifikovať (napr. voľba klastrového postupu). Treba sa vyhnúť rôznym “home made” protokolom, ktoré vedú k nedostatočnej cieľovej / kumulatívnej dávke alergénu prípadne nemajú overenú účinnosť a potvrdenú bezpečnosť v klinických štúdiách.
 Pred každou aplikáciou alergénu má byť pacient fyzicky aj psychicky v pokoji. Pred aplikáciou treba u pacienta podstupujúceho SCIT odobrať anamnézu - ako sa mal po ostatnom podaní, či je pacient zdravý, ako sa cíti, či sa niečo zmenilo od poslednej návštevy. U pacientov s veľkými a obťažujúcimi lokálnymi reakciami po podaní SCIT môžeme zvážiť premedikáciu antihistaminikom (večer pred podaním, prípadne kontinuálne podávanie). Astmatik má byť vyšetrený fyzikálne aj spirometricky (FEV1 > 70% RH), individuálne možno zvážiť spirometrie pred a po podaní AIT. Každé podanie SCIT má byť zaznačené v zdravotnej dokumentácii pacienta.
 
-
-**Pred začatím AIT treba zvážiť indikáciu, kontraindikácie, prínos a prípadné riziká pre pacienta. **
-**Liečbu nezačíname/nepodávame v štádiu exacerbovanej choroby (nestabilná astma, akútny priebeh alergie), ani v prípade interkurentnej infekcie. **
-**Pred každou aplikáciou alergénu má byť pacient fyzicky aj psychicky v pokoji. **
-**Je potrebné, aby pacient počas liečby dosiahol dostatočnú kumulatívnu dávku alergénu**.
-
-
-SCIT
+*SCIT*
 SCIT sa podáva do strednej, prípadne distálnej tretiny dorzálnej strany ramena. Pred aplikáciou je potrebné skontrolovať podávaný prípravok (či nedošlo nevhodným skladovaním k znehodnoteniu, druh alergénu, koncentráciu, exspiračnú dobu). Nikdy sa nekombinujú viaceré šarže pri jednom podaní. Pred aplikáciou sa aspiruje. Po aplikácii si pacient miesto vpichu na 30 sekúnd mierne pritlačí prstami (tlakový “obväz”).
 Po každej aplikácii SCIT má byť pacient minimálne 30 minút sledovaný, respektíve pod dozorom lekára. Následne by sa mal pacient vyhýbať počas celého dňa zvýšenej fyzickej záťaži (vrátane saunovania), konzumácii alkoholu a prejedaniu.
-SLIT
+*SLIT*
 Aj pacient podstupujúci SLIT si vyžaduje zvýšenú pozornosť. Prvá dávka sa podáva v ambulancii – okrem odsledovania tolerancie prvej dávky je to príležitosť liečbu oddemonštrovať a ešte raz pacientovi vysvetliť. Ďalšie dávky si pacient podáva doma, ale musí byť zrozumiteľne poučený kedy si SLIT nepodať. Napríklad v prípade chirurgického výkonu v ústnej dutine, vrátane extrakcie zubu a vypadnutia mliečneho zubu u detí, sa má SLIT prerušiť na 7 dní. 
 SLIT nie je potrebné podávať nalačno, dutina ústna má byť čistá a bez zbytkov potravy, roztok alebo tableta sa pod jazykom drží minimálne 1 minútu, následne sa obsah prehltne (prípadne vypľuje). Po aplikácii je vhodné 15 min nekonzumovať jedlo.
 Na úvod sa predpisuje iba mesačné balenie SLIT; pred predpisom pokračovacej 3-mesačnej dávky treba s pacientom okrem kontroly tolerancie znova stručne prediskutovať celý liečebný plán.
@@ -211,16 +149,9 @@ Pri SLIT podávame 2. alergén 30 minút po podaní 1. alergénu, alebo podávam
 Úlohou alergológa je vybrať a nastaviť najúčinnejšiu liečbu: výber jedného (preferenčne) alebo viacerých dominantných príčinných alergénov, v jednom alebo viacerých prípravkoch, formu lieku a liečebný režim.
 Symptomatická liečba môže najmä počas iniciálnej fázy AIT zlepšiť znášanlivosť a hodnotenie účinnosti pacientom a podporiť tak jeho adherenciu k liečbe. Ambicióznym cieľom AIT ale má byť budúca redukcia, prípadne vynechanie symptomatickej farmakoterapie.
 
+-------------------------------------------------------------------------------
 
-  **Úlohou alergológa je vybrať a nastaviť najúčinnejšiu liečbu: výber jedného (preferenčne) alebo viacerých dominantných príčinných alergénov**
-  
-  **Na rozlíšenie polyreaktivity od skutočnej polysenzibilizácie sa využíva molekulová (tzv. komponentová) diagnostika. **
-  
-  **V prípade viacerých relevantných príčinných alergénov  je možné podávanie dvoch (maximálne troch) alergénov, a to buď súčasne, alebo následne. **
-  
-  **Cieľom AIT je redukcia, prípadne úplné vynechanie symptomatickej farmakoterapie. **
-   
-Všeobecné zásady pre zlepšenie adherencie k liečbe
+**Všeobecné zásady pre zlepšenie adherencie k liečbe**
 Ďalej uvedené zásady platia pre všetky typy akejkoľvek liečby, je ale veľmi žiaduce sa nimi riadiť aj pri AIT. Ich uplatňovaním výrazne stúpne podiel alergikov, ktorí dokončia potrebné minimálne 3 ročné podávanie AIT.
 V súvislosti s (ne)užívaním liekov, respektíve s (ne)dodržiavaním liečebného plánu sa používajú pojmy adherencia a compliance (1). Termín adherencia sa definuje sa ako miera zhody medzi klinickou preskripciou a skutočným užívaním liečby, čo je pre konečný výsledok liečby kľúčové. Na compliance sa nazerá ako na naše jednostranné rozhodnutie s očakávaním, že pacient bude predpísanú liečbu užívať.
 Nonadherenciu spôsobuje rad faktorov, vrátane sociálneho a kultúrneho pozadia pacienta. Dôležité sú aj faktory podmienené samou chorobou, ako sú charakter symptómov, liečba ktorú vyžaduje (spôsob podávania, frekvencia dávok, dĺžka liečby, nežiaduce účinky, náklady). Neprekvapí, že pacienti so závažnejším priebehom choroby sú k liečbe adherentnejší. V neposlednom rade (non)adherencia závisí od vzťahu medzi pacientom a lekárom a od pacientových očakávaní. Je preto dôležité ako možné očakávania lekár pacientovi vysvetlí. Adherenciu k predpísanej liečbe podmieňuje komplexná sekvencia udalostí a rozhodnutí ktoré môžeme rozdeliť na 3 fázy (1):
@@ -232,12 +163,12 @@ Nonadherenciu spôsobuje rad faktorov, vrátane sociálneho a kultúrneho pozad
 2. Implementácia (pokračovanie)
 - fáza pokračovania v liečbe vyžaduje najmä v začiatku opakované kontroly užívania – od druhu choroby, jej liečby, ako aj preferencií pacienta závisí forma (fyzická kontrola, telefón, elektronická komunikácia, odovzdávanie denníka a p.) aj frekvencia kontrol;
 - vo fáze pokračovania liečby sa stráca významná časť pacientov, vrátane tých, ktorí s liečbou jednoznačne súhlasili: podľa prieskumu realizovaného v SR už po 1. mesiaci z liečby „vypadáva“ 5-6 % pacientov, po 3 mesiacoch liečby nepokračuje 15 %, po roku pokračuje už len necelých 70% a AIT dokončí <50% pacientov, a to nezávisle na type liečby (2). Medzi najčastejšie príčiny nepokračovania patria: 
-? nežiaduce účinky (n.ú.), pre ktoré nepokračujú pacienti najmä v začiatkoch AIT, je preto potrebné aby o n.ú. pacient vedel ešte pred podaním prvej dávky a aby vedel, že ide o očakávaný n.ú. s predpokladom zmiernenia / ústupu v čase;
-?  v neskorších fázach (napr. u roztočového pacienta po polroku až roku, u polinotika po 1. sezóne, býva často príčinou nepokračovania v liečbe aj pocit zlepšenia – pacienti si myslia, že „už sú vyliečení“;
-? dĺžka liečby: od samého začiatku a v priebehu kontrol pacienta treba stále prízvukovať, že liečba má trvať minimálne 3 roky, musíme rátať s tým, že pacient sa nás po čase spýta „prečo tak dlho“; v prípade VIT je vhodná dĺžka liečby aspoň 5 rokov, u niektorých pacientov dokonca ojedinele aj celoživotne;
-? finančná náročnosť: doplatky môžu v individuálnych prípadoch viesť k predčasnému ukončeniu (alebo dokonca nezačatiu) liečby, pacientovi treba vysvetliť, že sumu konkrétneho doplatku bežne minie napr. na multivitamín;
-? počet návštev na ambulancii: v priebehu 3 roky trvajúcej liečby môže byť problémom potreba častého uvoľnenia sa z práce, aj preto – ak je to možné – preferujeme SLIT pred SCIT a individualizujeme formu kontrol (namiesto fyzickej kontroly mail, telefón, sociálna sieť...);
-? pri peľovej alergii hrá veľmi významnú úlohu aktuálne množstvo peľu s vysokou medziročnou variabilitou; hodnoty konkrétneho peľu v ovzduší vyššie ako v roku pred začatím liečby môžu vyvolať pocit zlyhávania liečby; naopak veľmi nízke hodnoty peľu v konkrétnej sezóne môžu pacienta viesť k mylnej predstave, že už nepotrebuje protialergickú liečbu (2).
+-- nežiaduce účinky (n.ú.), pre ktoré nepokračujú pacienti najmä v začiatkoch AIT, je preto potrebné aby o n.ú. pacient vedel ešte pred podaním prvej dávky a aby vedel, že ide o očakávaný n.ú. s predpokladom zmiernenia / ústupu v čase;
+-- v neskorších fázach (napr. u roztočového pacienta po polroku až roku, u polinotika po 1. sezóne, býva často príčinou nepokračovania v liečbe aj pocit zlepšenia – pacienti si myslia, že „už sú vyliečení“;
+-- dĺžka liečby: od samého začiatku a v priebehu kontrol pacienta treba stále prízvukovať, že liečba má trvať minimálne 3 roky, musíme rátať s tým, že pacient sa nás po čase spýta „prečo tak dlho“; v prípade VIT je vhodná dĺžka liečby aspoň 5 rokov, u niektorých pacientov dokonca ojedinele aj celoživotne;
+-- finančná náročnosť: doplatky môžu v individuálnych prípadoch viesť k predčasnému ukončeniu (alebo dokonca nezačatiu) liečby, pacientovi treba vysvetliť, že sumu konkrétneho doplatku bežne minie napr. na multivitamín;
+-- počet návštev na ambulancii: v priebehu 3 roky trvajúcej liečby môže byť problémom potreba častého uvoľnenia sa z práce, aj preto – ak je to možné – preferujeme SLIT pred SCIT a individualizujeme formu kontrol (namiesto fyzickej kontroly mail, telefón, sociálna sieť...);
+-- pri peľovej alergii hrá veľmi významnú úlohu aktuálne množstvo peľu s vysokou medziročnou variabilitou; hodnoty konkrétneho peľu v ovzduší vyššie ako v roku pred začatím liečby môžu vyvolať pocit zlyhávania liečby; naopak veľmi nízke hodnoty peľu v konkrétnej sezóne môžu pacienta viesť k mylnej predstave, že už nepotrebuje protialergickú liečbu (2).
 3. Ukončenie
 - pacient pokračuje v liečbe tak dlho ako určil lekár; na začiatku a počas liečby opakovane treba vysvetľovať ako dlho bude liečba trvať.
 Rozhodujúce faktory adherencie
@@ -255,3 +186,4 @@ SLIT realizuje sám pacient a je preto nevyhnutné, aby porozumel základným p
 Osobitne je potrebné venovať čas a pozornosť pacientom, ktorí v úvode SLIT pociťujú dyskomfort v oblasti ústnej dutiny, čo môže viesť k prerušeniu a neochote pokračovať v užívaní alergénu. Ak lekár dokáže pacientovi vysvetliť, že nejde o závažnejšie vedľajšie účinky lieku a ide naopak o prejav toho, že liečba pôsobí, práve tento argument môže prispieť k dôslednejšiemu dodržiavaniu a realizácii liečby. 
 Kooperujúci a edukovaný pacient sa viac pridŕža aj ďalších odporúčaní, ktoré sa môžu významne podieľať na výsledku liečby: správne užívanie symptomatických liekov, riešenie komorbidít a pridružených komplikácií, dodržiavanie režimových opatrení, úpravy v domácom či pracovnom prostredí.
 AIT je výnimočná pretrvávaním dosiahnutého efektu liečby aj po jej ukončení. Štúdie ukazujú, že tento efekt závisí od dosiahnutej určitej kumulatívnej dávky terapeutického alergénu, a teda v prvom rade na dodržaní odporučenej dávkovacej schémy. V súčasnosti sa zriedka odporúča viac ako 5-ročné podávanie alergénu, výnimkou je v individuálnych prípadoch celoživotné podávanie AIT pri alergií na jed blanokrídleho hmyzu. Štandardná dĺžka liečby je 3 až 5 rokov. Kratšie trvanie liečby nezaisťuje dostatočne dlhé pretrvávanie jej pôsobenia (11).
+
