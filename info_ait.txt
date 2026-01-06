@@ -1,6 +1,7 @@
 Autori: MUDr. Radovan Košturiak, PhD; Doc. MUDr. Martin Hrubiško, PhD;  Prof. MUDr. Mgr. Miloš Jeseňák, PhD., MBA, Dott.Ric., MHA, FAAAAI; Prof. MUDr. Peter Pružinec, CSc.
 Rok: 2024
 Názov dokumentu: Alergénová imunoterapia – stručná príručka pre prax.
+Dokument má 16 strán a približne 5300 slov
 -----------------------------------------------------------------------------------------------
 ***KĽÚČOVÉ INFORMÁCIE:***
 **Alergické choroby predstavujú v súčasnosti najčastejšiu formu civilizačných ochorení a sú charakterizované tzv. prezenteizmom (stratou pracovnej produktivity bez práceneschopnosti).**
@@ -186,4 +187,5 @@ SLIT realizuje sám pacient a je preto nevyhnutné, aby porozumel základným p
 Osobitne je potrebné venovať čas a pozornosť pacientom, ktorí v úvode SLIT pociťujú dyskomfort v oblasti ústnej dutiny, čo môže viesť k prerušeniu a neochote pokračovať v užívaní alergénu. Ak lekár dokáže pacientovi vysvetliť, že nejde o závažnejšie vedľajšie účinky lieku a ide naopak o prejav toho, že liečba pôsobí, práve tento argument môže prispieť k dôslednejšiemu dodržiavaniu a realizácii liečby. 
 Kooperujúci a edukovaný pacient sa viac pridŕža aj ďalších odporúčaní, ktoré sa môžu významne podieľať na výsledku liečby: správne užívanie symptomatických liekov, riešenie komorbidít a pridružených komplikácií, dodržiavanie režimových opatrení, úpravy v domácom či pracovnom prostredí.
 AIT je výnimočná pretrvávaním dosiahnutého efektu liečby aj po jej ukončení. Štúdie ukazujú, že tento efekt závisí od dosiahnutej určitej kumulatívnej dávky terapeutického alergénu, a teda v prvom rade na dodržaní odporučenej dávkovacej schémy. V súčasnosti sa zriedka odporúča viac ako 5-ročné podávanie alergénu, výnimkou je v individuálnych prípadoch celoživotné podávanie AIT pri alergií na jed blanokrídleho hmyzu. Štandardná dĺžka liečby je 3 až 5 rokov. Kratšie trvanie liečby nezaisťuje dostatočne dlhé pretrvávanie jej pôsobenia (11).
+
 
