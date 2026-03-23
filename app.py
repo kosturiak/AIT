@@ -13,7 +13,7 @@ CORS(app)
 
 # --- Inicializácia Vertex AI ---
 PROJECT_ID = os.environ.get("GOOGLE_CLOUD_PROJECT")
-LOCATION = "europe-west1" 
+LOCATION = "global" 
 vertexai.init(project=PROJECT_ID, location=LOCATION)
 
 # --- Načítanie Vašej bázy znalostí ---
@@ -51,7 +51,7 @@ Lekár číta odpoveď v rýchlosti. Nesmieš ho "utopiť" záplavou informácii
 # --- Inicializácia modelu ---
 # Tu môžeš nechať 2.5 alebo zmeniť na "gemini-3.0-flash-preview" ak chceš novší model
 model = GenerativeModel(
-    "gemini-2.5-flash",
+    "gemini-3-flash-preview",
     system_instruction=SYSTEM_PROMPT
 )
 
